@@ -1,3 +1,35 @@
+* Version 0.9
+   - Added the creation date of Debian;
+   - Added the origin of Debian name;
+   - Changed the logo for the spiral;
+   - Addition of DebConfs, Debian Live, Debian Women, Pure Blend, Derivatives 
+     and Mentors;
+   - Table of software versions (18/01/2012);
+   - Addition of QA Team;
+   - Added service CVS, SVN, Git, Darcs;
+   - World map with data from the Linux Counter and DistroWatch;
+   - Anniversaries of 10 and 18 years.
+   - Changed the license CC by-nc-nd to CC by-nc-sa with exception clause 
+     (non-usage of references to logos or anything related to TDF and 
+     LibreOffice).
+   - Thanks to Felipe van De Wiel by corrective feedback.
+
+* version 0.8
+   - Change of cross by less signal for all archictetures - thanks to David 
+     Prévot;
+   - Change of Google Chrome logo by Chromium;
+   - Added early versions before the codenames;
+   - Added experimental and debian.net areas;
+   - Added "indicated for developers" - thanks to Felipe van De Wiel;
+   - Added Security team;
+   - Explained the chart's composition with developers and packages;
+   - Added the Alioth;
+   - Change of kernel's representation for a ring around each release
+   - Adjust in Testing area creation - thanks to Felipe van De Wiel;
+   - Adjusts in release process texts - thanks to Felipe van De Wiel;
+   - Change of date format to ISO;
+   - Revision to spanish - thanks to Hector Colina;
+
 * version 0.7
    - Revision to spanish - thanks to Alberto Giménez and
      Roberto Brenlla;
