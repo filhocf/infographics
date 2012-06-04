@@ -1,7 +1,29 @@
-* version 0.1
-  - frame "what to migrate", with a view from corporative and general users;
-  - frame "Migrate in layers", doing a analogy between IT migration and a cake;
-  - frame "Thinking in cloud", presenting some open source solutions for cloud;
-  - frame "Thinking in app", presenting some open source apps for desktop;
+* Version 0.4 (2012-06-02)
+  - Colors reformulation - thanks to Ursula Schumm by her good tecnical critiques;
+  - Added lot of apps in desktop and cloud area;
+  - Added internet TV picture in the cloud apps area - thanks to Marco Scheiner;
+  - Reformuled all apps types icons;
+  - Reformuled migration planning area, integrating with apps type icons;
+  - Correction of typos in pt-br - thanks to Flávio Raphael Barcellos;
+
+* Version 0.3 (2012-05-20)
+  - Added Migration Effort and TCO sectors;
+  - Rethink the Apps for migration sector;
+  - Fix some typographic errors - thanks Luiz Oliveira;
+  - Resized to more that A2;
+
+* Version 0.2 (2012-05-13)
+  - Added vision flow in the infographic (numbers in titles)- thanks to Leonardo
+    Cezar by suggestion;
+  - Changed the presentation of frame "Migration planning" (middle area) with 
+    addition of metaphore of airplane for migration - thanks to Marco Scheiner 
+    by suggestion;
+  - Resized from A3 to A2 (many information).
+
+* Version 0.1 (2012-05-06)
+  - Added frame "what to migrate", with a view from corporative and general users;
+  - Added frame "Migrate in layers", doing a analogy between IT migration and a cake;
+  - Added frame "Thinking in cloud", presenting some open source solutions for cloud;
+  - Added frame "Thinking in app", presenting some open source apps for desktop;
   - Special thanks for Marco Scheiner by revising the graphic;
   - Version only in brazilian portuguese.

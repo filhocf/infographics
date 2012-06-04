@@ -1,18 +1,55 @@
+===== Português =====
+
+Da Wikipedia: ”Infográficos são representações visuais de informação. Esses 
+gráficos são usados onde a informação precisa ser explicada de forma mais 
+dinâmica, como em mapas, jornalismo e manuais técnicos, educativos ou 
+científicos. “
+
+O "Guia de migração para o código aberto" segue a mesma linha do Infográfico do 
+Debian, com a ideia de mostrar de forma fácil como analisar e executar um 
+processo de migração, de forma segura e gradual, para o código aberto. 
+
+Para garantir o sucesso do processo de migração, é preciso entender o que, 
+quando e como migrar, garantindo um processo com o menor impacto possível e com
+o maior retorno desejável. Assim, fique a vontade para conhecer um caminho 
+seguro para se libertar de tecnologias privativas e com maior valor agregado 
+para o uso corporativo ou doméstico do computador.
+
+A versão 0.2 foi a primeira versão apresentável deste material.
+
+===== Español =====
+De Wikipedia: “Infografía son representaciones visuales de información. Estos 
+gráficos se utilizan cuando la información necesita ser explicada de una manera 
+más dinámica, tales como mapas, periodismo y manuales técnicos, con fines 
+educativos o científicos.”
+
+El "Guía de migración a Código Abierto" sigue la misma línea del Infográfico del 
+Debian, con la idea de mostrar una forma sencilla de cómo analizar y 
+ejecutar un proceso de migración, con seguridad y de forma gradual, para el 
+código abierto.
+
+Para asegurar el éxito del proceso de migración, hay que entender cuándo y cómo
+migrar, lo que garantiza un proceso con el menor impacto posible y el mayor
+retorno deseable. Así, siéntete libre para conocer un camino seguro para 
+liberarse de las tecnologías privativas y con maior valor agregado para el uso
+del ordenardor para empresas o domestico.
+
+La versión 0.2 fue la primera versión presentable de este material.
+
+===== English =====
+
 From Wikipedia: “Infographics are visual representations of information. 
 These charts are used where information needs to be explained in a more 
 dynamic, such as maps, journalism and technical manuals, educational or 
 scientific purposes.”
 
-So I made my first infographic on Debian, which sought to put all the 
-information (possible) I have in my lecture on this great project. What 
-motivated me to make this stuff was the difficulty that the general public 
-has to understand Debian, its areas, their numbers or their general operation.
+The "Migration Guide to Open Source" follows the same line of the Debian 
+Infographic, with idea of showing a easy way of how to analyze and execute a 
+migration process, safe and gradually, to open source.
 
-This motivation took place after seeing some infographics, i follow some time, 
-especially after Fa Conti, another passionate person, began to flood with 
-posts of great material on several subjects.
+To ensure the success of migration process, you must understand when and how to 
+migrate, ensuring a process with the least possible impact and the greatest 
+desirable feedback. So feel free to know a safe path to get free of privative 
+technologies and aggregate more value for your business or home computing use.
 
-Now, is to evolve it and think about the next. ;-)
-
-The first acceptable release was the version 0.7, so the CHANGELOG begins
-since this version.
+Version 0.2 was the first presentable version of this material.
