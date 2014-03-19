@@ -1,59 +1,76 @@
+* version 2.1
+   - Added Jessie as testing and Wheezy as stable;
+   - Added "The Debian way for illumination" - how help Debian;
+   - Added Siduction distro as derivates;
+   - Added Neuro Debian distro as derivate/pure blend - Thanks to Yaroslav O. 
+     Halchenko;
+   - Added DebConf13;
+   - Added DebConf14;
+   - Changed the icon for Debian Live - Thanks to Daniel Baumann;
+   - Changed the home of infographic - www.cfnarede.com.br;
+   - Refatored all equal icons from copy to clone (reduced the size of svg file);
+   - Update of software's table (2014-03-20);
+   - Update of Package and developers table (2014-03);
+   - Update of Distribution Popularaty table (2014-03);
+   - Update of World map with developers position (2014-03;
+   - Update of lot of texts - Thanks to Yaroslav O. Halchenko;
+   
 * version 2.0
    - Changed the license to CC by-nc-sa;
    
 * version 1.1
-   - Changed all pictures of Toy Story by cliparts;
    - Added the page URL of Infographic;
    - Added a QR Code with my data;
+   - Changed all pictures of Toy Story by cliparts;
+   - Changed the OpenOffice.org (OOo) by Apache OpenOffice (AOO);
    - Changed the license from CC by-nc-sa, because isn't possible to change a CC 
      license and to continue using the name "Creative Commons", to a similar CC
      license, or in other words, exactly the same text of CC by-nc-sa with a 
      exception clause - Thanks to Felipe van De Wiel by his warning;
    - Update of software's table (2012-07-10) - Thanks to Ryuunosuk Ayanokouzi;
-   - Changed the OpenOffice.org (OOo) by Apache OpenOffice (AOO);
 
 * version 1.0
    - Added the DFSG;
-   - Update of software's table (2012-04-20);
    - Adjust of ToyStory images in packages/developers chart.
    - Small adjusts in some english strings - Thanks to Vitor Nitu;
-   - Thanks to Vitor Nitu by his translation to Romanian;
-   - Small adjusts in some spanish strings - thanks some visitors;
-   - Modification of Debian-Live - logo and position;
    - Change of Debian Pure Blend text - Thanks to Yuri Nefedov;
+   - Modification of Debian-Live - logo and position;
+   - Small adjusts in some spanish strings - thanks some visitors;
+   - Thanks to Vitor Nitu by his translation to Romanian;
    - Thanks to Török Árpád by his translation to Hungarian;
    - Thanks to Ryuunosuk Ayanokouzi by his translation to Japanese;
-
+   - Update of software's table (2012-04-20);
 
 * versão 0.9
    - Added date creation of Debian;
-   - Origin of name's Debian;
-   - Change of logo for a swirl;
-   - Added DebConfs, Debian Live, Debian Women, Pure Blend, 
-     Derivateds and Mentors;
-   - Softwares version table (2012-01-18);
+   - Added origin of name's Debian;
+   - Added version table (2012-01-18);
    - Added QA team;
    - Added services of CVS, SVN, GIT, DARCS;
-   - World map with data from Linux Counter and DistroWatch;
-   - Debian birthday of  10 and 18 years.
+   - Added map with data from Linux Counter and DistroWatch;
+   - Added Debian birthday of 10 and 18 years.
+   - Added DebConfs, Debian Live, Debian Women, Pure Blend, 
+     Derivateds and Mentors;
+   - Change of logo for a swirl;
    - Change of license from CC by-nc-nd for CC by-nc-sa with exception clause
-     (not use of references, logos or any thing related with TDF and LibreOffice).
+     (not use of references, logos or any thing related with TDF and 
+     LibreOffice).
    - Thanks to Felipe van De Wiel by corretives comments.
 
 * version 0.8
-   - Change of cross by less signal for all archictetures -
-     thanks to David Prévot;
-   - Change of Google Chrome logo by Chromium;
    - Added early versions before the codenames;
    - Added experimental and debian.net areas;
    - Added "indicated for developers" - thanks to Felipe van De Wiel;
    - Added Security team;
-   - Explained the chart's composition with developers and packages;
    - Added the Alioth;
-   - Change of kernel's representation for a ring around each release
    - Adjust in Testing area creation - thanks to Felipe van De Wiel;
    - Adjusts in release process texts - thanks to Felipe van De Wiel;
+   - Change of cross by less signal for all archictetures -
+     thanks to David Prévot;
    - Change of date format to ISO;
+   - Change of Google Chrome logo by Chromium;
+   - Explained the chart's composition with developers and packages;
+   - Change of kernel's representation for a ring around each release
    - Revision to spanish - thanks to Hector Colina;
    - Thanks to Pierre-Yves Dubreucq by his translation to French;
    - Thanks to Nicola Tessari by his translation to Italian;
@@ -61,11 +78,11 @@
    - Thanks to Robert Pommrich by his translation to German;
 
 * version 0.7
+   - Evaluation tests and sugestions of Year 2012 and Chrome -
+     thanks to Marco Scheiner;
    - Revision to spanish - thanks to Alberto Giménez and
      Roberto Brenlla;
    - Revision to english - obrigado a Felipe van De Wiel and
      Marcelo Santana;
    - Revision to portuguese - thanks to Fernando Ike,
      Leonardo Cezar and Marcelo Santana;
-   - Evaluation tests and sugestions of Year 2012 and Chrome -
-     thanks to Marco Scheiner;
