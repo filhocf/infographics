@@ -1,18 +1,29 @@
+* version 2.2
+   - Added SteamOS distro as derivative;
+   - Added The Debian Administrator's Handbook;
+   - Added The Bug Tracker System;
+   - Added the Explained box about deb package;
+   - Added LTS - Long Term Support for Squezee;
+   - Small space adjusts in 1993-1996;
+   - Typo corrections for en-us - Thanks to Gijs Hillenius, Martin 
+     Schuster, Brian Foley, Uwe Jugel;
+
 * version 2.1
    - Added Jessie as testing and Wheezy as stable;
    - Added "The Debian way for illumination" - how help Debian;
    - Added Siduction distro as derivates;
-   - Added Neuro Debian distro as derivate/pure blend - Thanks to Yaroslav O. 
-     Halchenko;
+   - Added Neuro Debian distro as derivate/pure blend - Thanks to 
+     Yaroslav O. Halchenko;
    - Added DebConf13;
    - Added DebConf14;
    - Changed the icon for Debian Live - Thanks to Daniel Baumann;
    - Changed the home of infographic - www.cfnarede.com.br;
-   - Refatored all equal icons from copy to clone (reduced the size of svg file);
+   - Refatored all equal icons from copy to clone (reduced the size of
+     svg file);
    - Update of software's table (2014-03-20);
    - Update of Package and developers table (2014-03);
    - Update of Distribution Popularaty table (2014-03);
-   - Update of World map with developers position (2014-03;
+   - Update of World map with developers position (2014-03);
    - Update of lot of texts - Thanks to Yaroslav O. Halchenko;
    
 * version 2.0
@@ -23,11 +34,13 @@
    - Added a QR Code with my data;
    - Changed all pictures of Toy Story by cliparts;
    - Changed the OpenOffice.org (OOo) by Apache OpenOffice (AOO);
-   - Changed the license from CC by-nc-sa, because isn't possible to change a CC 
-     license and to continue using the name "Creative Commons", to a similar CC
-     license, or in other words, exactly the same text of CC by-nc-sa with a 
-     exception clause - Thanks to Felipe van De Wiel by his warning;
-   - Update of software's table (2012-07-10) - Thanks to Ryuunosuk Ayanokouzi;
+   - Changed the license from CC by-nc-sa, because isn't possible to 
+     change a CC license and to continue using the name "Creative 
+     Commons", to a similar CC license, or in other words, exactly the 
+     same text of CC by-nc-sa with a exception clause - Thanks to Felipe
+     van De Wiel by his warning;
+   - Update of software's table (2012-07-10) - Thanks to Ryuunosuk 
+     Ayanokouzi;
 
 * version 1.0
    - Added the DFSG;
@@ -52,9 +65,9 @@
    - Added DebConfs, Debian Live, Debian Women, Pure Blend, 
      Derivateds and Mentors;
    - Change of logo for a swirl;
-   - Change of license from CC by-nc-nd for CC by-nc-sa with exception clause
-     (not use of references, logos or any thing related with TDF and 
-     LibreOffice).
+   - Change of license from CC by-nc-nd for CC by-nc-sa with exception 
+     clause (not use of references, logos or any thing related with TDF
+     and LibreOffice).
    - Thanks to Felipe van De Wiel by corretives comments.
 
 * version 0.8
@@ -78,11 +91,11 @@
    - Thanks to Robert Pommrich by his translation to German;
 
 * version 0.7
-   - Evaluation tests and sugestions of Year 2012 and Chrome -
-     thanks to Marco Scheiner;
-   - Revision to spanish - thanks to Alberto Giménez and
-     Roberto Brenlla;
-   - Revision to english - obrigado a Felipe van De Wiel and
+   - Evaluation tests and sugestions of Year 2012 and Chrome - thanks to
+     Marco Scheiner;
+   - Revision to spanish - thanks to Alberto Giménez and Roberto 
+     Brenlla;
+   - Revision to english - thanks to Felipe van De Wiel and Marcelo 
+     Santana;
+   - Revision to portuguese - thanks to Fernando Ike, Leonardo Cezar and
      Marcelo Santana;
-   - Revision to portuguese - thanks to Fernando Ike,
-     Leonardo Cezar and Marcelo Santana;
