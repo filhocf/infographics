@@ -1,0 +1,1732 @@
+# Japanese translations for Understanding Debian package
+# Copyright (C) 2014 Claudio Ferreira Filho <filhocf@gmail.com>
+# This file is distributed under the same license as the Understanding Debian package.
+# Ryuunosuke Ayanokouzi <i38w7i3@yahoo.co.jp>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Understanding Debian 2.1\n"
+"Report-Msgid-Bugs-To: filhocf@gmail.com\n"
+"POT-Creation-Date: 2014-10-28 04:22+0900\n"
+"PO-Revision-Date: 2014-10-28 04:22+0900\n"
+"Last-Translator: AYANOKOUZI, Ryuunosuke <i38w7i3@yahoo.co.jp>\n"
+"Language-Team: none\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: infographic_debian.svg:18899
+#, no-wrap
+msgid "image/svg+xml"
+msgstr ""
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:creator><cc:Agent><dc:title>
+#: infographic_debian.svg:18905
+#, no-wrap
+msgid "Claudio Ferreira Filho"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19214
+#, no-wrap
+msgid "2000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19227 infographic_debian.svg:55380
+#, no-wrap
+msgid "2011"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19291
+#, no-wrap
+msgid "1993"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19304
+#, no-wrap
+msgid "1994"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19317
+#, no-wrap
+msgid "1995"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19330
+#, no-wrap
+msgid "1996"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19343
+#, no-wrap
+msgid "1997"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19356
+#, no-wrap
+msgid "1998"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19369
+#, no-wrap
+msgid "2001"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19382 infographic_debian.svg:55236
+#, no-wrap
+msgid "2002"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19395 infographic_debian.svg:55364
+#, no-wrap
+msgid "2010"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19408 infographic_debian.svg:55284
+#, no-wrap
+msgid "2005"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19421 infographic_debian.svg:55332
+#, no-wrap
+msgid "2008"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19434 infographic_debian.svg:55300
+#, no-wrap
+msgid "2006"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19447 infographic_debian.svg:55316
+#, no-wrap
+msgid "2007"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19460
+#, no-wrap
+msgid "1999"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19473 infographic_debian.svg:55252
+#, no-wrap
+msgid "2003"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19486 infographic_debian.svg:55348
+#, no-wrap
+msgid "2009"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19499 infographic_debian.svg:55268
+#, no-wrap
+msgid "2004"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19512 infographic_debian.svg:55408
+#, no-wrap
+msgid "2012"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19525 infographic_debian.svg:55424
+#, no-wrap
+msgid "2013"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:19538
+#, no-wrap
+msgid "2014"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:19933
+#, no-wrap
+msgid "Skol linux"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:20458
+#, no-wrap
+msgid "TM"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:20907
+#, no-wrap
+msgid "hemistry"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:21889 infographic_debian.svg:22031
+#, no-wrap
+msgid "DEB"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:22246
+#, no-wrap
+msgid "i386"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:29221
+#, no-wrap
+msgid "Debian.net"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:29829 infographic_debian.svg:29850
+#, no-wrap
+msgid "DFSG"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31036
+#, no-wrap
+msgid "PowerPC"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31079
+#, no-wrap
+msgid "ARM"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31189
+#, no-wrap
+msgid "IA-64"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31236
+#, no-wrap
+msgid "MIPS"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31279
+#, no-wrap
+msgid "S/390"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31322
+#, no-wrap
+msgid "HP PA"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31324
+#, no-wrap
+msgid "RISC"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31567
+#, no-wrap
+msgid "AMD64"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31641
+#, no-wrap
+msgid "m68k"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31713
+#, no-wrap
+msgid "Alpha"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31756
+#, no-wrap
+msgid "SPARC"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:31931 infographic_debian.svg:60970
+#, no-wrap
+msgid "2001-07"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32185
+#, no-wrap
+msgid "2003-05"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32208
+#, no-wrap
+msgid "2006-11"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32304
+#, no-wrap
+msgid "2010-08"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32861
+#, no-wrap
+msgid "Rex"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32863
+#, no-wrap
+msgid "1996-12"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32891
+#, no-wrap
+msgid "Hamm"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:32893
+#, no-wrap
+msgid "1998-07"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33154
+#, no-wrap
+msgid "0.1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33156
+#, no-wrap
+msgid "1993-08"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33184
+#, no-wrap
+msgid "0.93R6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33186
+#, no-wrap
+msgid "1995-11"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33214
+#, no-wrap
+msgid "Slink"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33216
+#, no-wrap
+msgid "1999-03"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33723
+#, no-wrap
+msgid "Potato"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33725
+#, no-wrap
+msgid "2000-08"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33903
+#, no-wrap
+msgid "Woody"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:33905 infographic_debian.svg:61071
+#, no-wrap
+msgid "2002-07"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:34060
+#, no-wrap
+msgid "Sarge"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:34062
+#, no-wrap
+msgid "2005-06"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43460
+#, no-wrap
+msgid "Squeeze"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43462
+#, no-wrap
+msgid "2011-02"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43490
+#, no-wrap
+msgid "Lenny"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43492
+#, no-wrap
+msgid "2009-02"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43517
+#, no-wrap
+msgid "Wheezy"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43519
+#, no-wrap
+msgid "2013-04"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43547
+#, no-wrap
+msgid "Etch"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:43549
+#, no-wrap
+msgid "2007-04"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:47948 infographic_debian.svg:84609
+#, no-wrap
+msgid "Buzz"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:47950
+#, no-wrap
+msgid "1996-06"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:47978
+#, no-wrap
+msgid "0.91"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:47980
+#, no-wrap
+msgid "1994-01"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:48008
+#, no-wrap
+msgid "Bo"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:48010
+#, no-wrap
+msgid "1997-07"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:50137
+#, no-wrap
+msgid "1 - 50"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:50148
+#, no-wrap
+msgid "51 - 500"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:50159
+#, no-wrap
+msgid "501 - 1000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:50170
+#, no-wrap
+msgid "1001 - 2000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:50181
+#, no-wrap
+msgid "2000+"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:54906
+#, no-wrap
+msgid "Linux Counter Project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55010
+#, no-wrap
+msgid "1º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55025
+#, no-wrap
+msgid "2º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55040
+#, no-wrap
+msgid "3º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55055
+#, no-wrap
+msgid "4º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55070
+#, no-wrap
+msgid "5º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55085
+#, no-wrap
+msgid "6º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55100
+#, no-wrap
+msgid "7º"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:55392
+#, no-wrap
+msgid "DistroWatch.com"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57654
+#, no-wrap
+msgid "1600"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57669
+#, no-wrap
+msgid "1400"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57684
+#, no-wrap
+msgid "1200"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57699
+#, no-wrap
+msgid "1000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57714
+#, no-wrap
+msgid "800"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:57729
+#, no-wrap
+msgid "600"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57744 infographic_debian.svg:58346
+#, no-wrap
+msgid "400"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57759 infographic_debian.svg:58320
+#, no-wrap
+msgid "200"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57793
+#, no-wrap
+msgid "23000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57852
+#, no-wrap
+msgid "18200"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57889
+#, no-wrap
+msgid "15400"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:57926
+#, no-wrap
+msgid "8500"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58018
+#, no-wrap
+msgid "3900"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58044
+#, no-wrap
+msgid "2250"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58070 infographic_debian.svg:58476
+#, no-wrap
+msgid "1500"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58086
+#, no-wrap
+msgid "30.000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58101
+#, no-wrap
+msgid "26.250"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58116
+#, no-wrap
+msgid "22.500"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58131
+#, no-wrap
+msgid "18.750"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58146
+#, no-wrap
+msgid "15.000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58161
+#, no-wrap
+msgid "11.250"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58176
+#, no-wrap
+msgid "7.500"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58191
+#, no-wrap
+msgid "3.750"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58216
+#, no-wrap
+msgid "974"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58242
+#, no-wrap
+msgid "848"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58268
+#, no-wrap
+msgid "474"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58294
+#, no-wrap
+msgid "120"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58372
+#, no-wrap
+msgid "450"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58398
+#, no-wrap
+msgid "900"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58424
+#, no-wrap
+msgid "1010"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58450
+#, no-wrap
+msgid "1450"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58502
+#, no-wrap
+msgid "1030"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58776
+#, no-wrap
+msgid "48.600"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58820
+#, no-wrap
+msgid "29000"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58846
+#, no-wrap
+msgid "1490"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:58872
+#, no-wrap
+msgid "48600"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:58983 infographic_debian.svg:59243
+#, no-wrap
+msgid "3.13+56"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59006
+#, no-wrap
+msgid "24.3.0esr-1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59022 infographic_debian.svg:59274
+#, no-wrap
+msgid "32.0.1700.123-4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59045
+#, no-wrap
+msgid "2.1.2-2+b1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59060 infographic_debian.svg:59304
+#, no-wrap
+msgid "0.48.4-3+b1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59075 infographic_debian.svg:59319
+#, no-wrap
+msgid "2.8.6-1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59090 infographic_debian.svg:59334
+#, no-wrap
+msgid "3.8+4"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59105 infographic_debian.svg:59349
+#, no-wrap
+msgid "4.11.7-1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59120
+#, no-wrap
+msgid "3.2+46"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59136
+#, no-wrap
+msgid "24.4.0esr-1~deb7u2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59152
+#, no-wrap
+msgid "32.0.1700.123-1~deb7u1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59168
+#, no-wrap
+msgid "2.0.3-5"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59183
+#, no-wrap
+msgid "0.48.3.1-1.3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59198
+#, no-wrap
+msgid "2.8.2-2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59213
+#, no-wrap
+msgid "3.4+7"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59228
+#, no-wrap
+msgid "4.8.4-6"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59258
+#, no-wrap
+msgid "24.4.0esr-1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59289
+#, no-wrap
+msgid "2.1.2-2+b2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59364 infographic_debian.svg:59394
+#: infographic_debian.svg:59409 infographic_debian.svg:59424
+#: infographic_debian.svg:59439 infographic_debian.svg:59454
+#: infographic_debian.svg:59469
+#, no-wrap
+msgid "---"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:59379
+#, no-wrap
+msgid "27.0.1-1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:59559 infographic_debian.svg:84513
+#, no-wrap
+msgid "Experimental"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:59572 infographic_debian.svg:84418
+#, no-wrap
+msgid "Unstable"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:59585 infographic_debian.svg:84671
+#: infographic_debian.svg:85006
+#, no-wrap
+msgid "Testing"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:59598 infographic_debian.svg:84437
+#: infographic_debian.svg:84607 infographic_debian.svg:84967
+#: infographic_debian.svg:84984
+#, no-wrap
+msgid "Stable"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><text><tspan>
+#: infographic_debian.svg:59929 infographic_debian.svg:59976
+#, no-wrap
+msgid "Murdock"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:60869
+#, no-wrap
+msgid "SEE YOU IN"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:60882
+#, no-wrap
+msgid "HEL"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:60957
+#, no-wrap
+msgid "DebConf 1"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:61058
+#, no-wrap
+msgid "DebConf 2"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:61209
+#, no-wrap
+msgid "DebConf 3"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:61222
+#, no-wrap
+msgid "2003-07"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:72790
+#, no-wrap
+msgid "DebConf14"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: infographic_debian.svg:72803
+#, no-wrap
+msgid "Portland"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><text><textPath><tspan>
+#: infographic_debian.svg:72826
+#, no-wrap
+msgid "Portland State University"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><textPath>
+#: infographic_debian.svg:73058
+#, no-wrap
+msgid "Matthew Marjanovic &lt;maddog@mir.com&gt;, September 2013"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79593 infographic_debian.svg:84064
+#, no-wrap
+msgid "#!/usr/bin/python"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79601 infographic_debian.svg:84072
+#, no-wrap
+msgid "# Python exception handling."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79609 infographic_debian.svg:84080
+#, no-wrap
+msgid "# Choose two random integers."
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79665 infographic_debian.svg:84136
+#, no-wrap
+msgid "import random"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79669 infographic_debian.svg:84140
+#, no-wrap
+msgid "i = random.randrange(0, 8)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79673 infographic_debian.svg:84144
+#, no-wrap
+msgid "j = random.randrange(-1, 6)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><text><tspan>
+#: infographic_debian.svg:79677 infographic_debian.svg:84148
+#, no-wrap
+msgid "print i, j"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:84221
+#, no-wrap
+msgid "New logo"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:84223
+#, no-wrap
+msgid "1999-05"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84243
+#, no-wrap
+msgid "On 1993-08-16, Ian Murdock announced the birth of Debian."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84260
+#, no-wrap
+msgid "Claudio F Filho (filhocf) &lt;filhocf@gmail.com&gt;"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84265
+#, no-wrap
+msgid "03/10/2013 - version 2.1 - Made with Inkscape."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84270
+#, no-wrap
+msgid "Understanding Debian is licensed under a Creative "
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84275
+#, no-wrap
+msgid "Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84285
+#, no-wrap
+msgid "Debian is a trademark of Software Public Interest Inc."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84290
+#, no-wrap
+msgid "All trademarks are exclusive property of their respective owners."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84295
+#, no-wrap
+msgid "All characters in the movie in the Toy Story movie are the property of Pixar/Disney."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84300
+#, no-wrap
+msgid "Many cliparts used here are from OpenCliparts.org project."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84315
+#, no-wrap
+msgid "Release Process"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84331
+#, no-wrap
+msgid "Intended for:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84350
+#, no-wrap
+msgid "Understanding Debian"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84365
+#, no-wrap
+msgid "The universal operating system"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84385
+#, no-wrap
+msgid "Lastest versions always are incorporated in Sid (unstable)."
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:84399
+#, no-wrap
+msgid "Sources"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84469
+#, no-wrap
+msgid "Jessie"
+msgstr ""
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84494
+#, no-wrap
+msgid "current testing version"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84535
+#, no-wrap
+msgid "Unstable:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84535
+#, no-wrap
+msgid " also known as "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84537 infographic_debian.svg:84541
+#, no-wrap
+msgid "SID"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84537
+#, no-wrap
+msgid ", the neighbor who broke toys. Eternally "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84539
+#, no-wrap
+msgid "unstable"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84539
+#, no-wrap
+msgid ". This is an area for package stabilization. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84541
+#, no-wrap
+msgid ": Still in Development"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:84562
+#, no-wrap
+msgid "repositories"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84584
+#, no-wrap
+msgid "Testing:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84584
+#, no-wrap
+msgid " stabilization area for the distribution as a whole. It is released as stable version when ready."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84607
+#, no-wrap
+msgid ": when a new version is released, it gets a codename. The first codename was  "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84609
+#, no-wrap
+msgid ", from "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84611
+#, no-wrap
+msgid "Toy Story"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84611
+#, no-wrap
+msgid " movie."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84632
+#, no-wrap
+msgid "When a new version is released as stable, it immediately open space in testing .Then a new cycle of distribution stabilization is started for a future release. The process follows a continuous and natural flow."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84653
+#, no-wrap
+msgid "Experimental:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84653
+#, no-wrap
+msgid " area for bleeding edge version and experimentation. It is used periodically."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84691
+#, no-wrap
+msgid "In general it is used to incorporate a great set of packages before going into unstable."
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:84711
+#, no-wrap
+msgid "Pure blend"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:84730
+#, no-wrap
+msgid "Derivatives"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84752
+#, no-wrap
+msgid "2003-08-16"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84754
+#, no-wrap
+msgid "10 years of Debian Project"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84779
+#, no-wrap
+msgid "Debian Women:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84779
+#, no-wrap
+msgid " Seeks to provide balance and to diversify the Debian community. Actively engaged with stakeholders and encourages women to become more involved with Debian."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84802
+#, no-wrap
+msgid "2011-08-16"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84804
+#, no-wrap
+msgid "18 years. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84806
+#, no-wrap
+msgid "Age of majority."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84829
+#, no-wrap
+msgid "Debian Mentors:"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84829
+#, no-wrap
+msgid " Focused on helping new developers."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84851
+#, no-wrap
+msgid "Under the DFSG, all changes made ​​in Debian are made available to upstream authors, benefiting Debian itself and  other distributions."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:84867
+#, no-wrap
+msgid "On 1997-07-05, the Debian Free Software Guideline was created."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84877
+#, no-wrap
+msgid "Courtesy"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84888
+#, no-wrap
+msgid "Registered Debian users"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84903
+#, no-wrap
+msgid "Distribution Popularity"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:84917
+#, no-wrap
+msgid "Designed for"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara><flowSpan><flowSpan>
+#: infographic_debian.svg:84936
+#, no-wrap
+msgid "Pure Blend: "
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84936
+#, no-wrap
+msgid "Debian Pure Blends provide a solution for special groups of target users  with different skills and interests."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:84952
+#, no-wrap
+msgid "Derivatives: "
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:84952
+#, no-wrap
+msgid "Debian provides a solid foundation to build a new custom distribution."
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:84965 infographic_debian.svg:84982
+#: infographic_debian.svg:85004
+#, no-wrap
+msgid "Security team"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85020
+#, no-wrap
+msgid "Distribution of Debian developers around the world"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:85042
+#, no-wrap
+msgid "Debian Live: "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:85044
+#, no-wrap
+msgid "provides"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara><flowSpan>
+#: infographic_debian.svg:85046
+#, no-wrap
+msgid " a framework to build official or customized Debian Live images to boot into Debian without requiring installation."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85060
+#, no-wrap
+msgid "Quality Assurance team"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85077
+#, no-wrap
+msgid "Firsts steps (easy)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85096
+#, no-wrap
+msgid "Participating more inside of Debian (medium)"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85115
+#, no-wrap
+msgid "Get involved!"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85129
+#, no-wrap
+msgid "Do you like events?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85146
+#, no-wrap
+msgid "You inside of Debian (hard? No. Be a part in Debian Project!)"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85160 infographic_debian.svg:85202
+#, no-wrap
+msgid "Do you like to program?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:85176
+#, no-wrap
+msgid "Subscribe in the devel lists, talk with other developers and join a team with similar interests in Debian Project. "
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:85177
+#, no-wrap
+msgid "WELCOME and ENJOY!"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85190
+#, no-wrap
+msgid "do you wish to be a team member?"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85214
+#, no-wrap
+msgid "Do you like to translate?"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85226
+#, no-wrap
+msgid "Do you like to write?"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85244
+#, no-wrap
+msgid "The Debian Way"
+msgstr ""
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: infographic_debian.svg:85249
+#, no-wrap
+msgid "for Illumination"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85264
+#, no-wrap
+msgid "DD"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85266
+#, no-wrap
+msgid "Debian Developer"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85268
+#, no-wrap
+msgid "The illumination"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85280
+#, no-wrap
+msgid "Read the technical documentation in the Developers' Corner, like New Maintainers' Guide, Debian Policy Manual or Debian Developer's Reference."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85292
+#, no-wrap
+msgid "Found a bug?  Send a patch!"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85304 infographic_debian.svg:85415
+#, no-wrap
+msgid "http://www.debian.org/Bugs/"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85316
+#, no-wrap
+msgid "Translate Debian web pages, manuals or package descriptions."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85328 infographic_debian.svg:85354
+#, no-wrap
+msgid "http://www.debian.org/doc/ddp"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85329
+#, no-wrap
+msgid "http://www.debian.org/devel/website/"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85330
+#, no-wrap
+msgid "http://www.debian.org/international/l10n/ddtp"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85342
+#, no-wrap
+msgid "Write a manual, book or other materials that can help new users."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85367
+#, no-wrap
+msgid "http://www.debian.org/Devel/"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85379
+#, no-wrap
+msgid "Adopt an orphaned package or start a packaging with a new software, alone or by joing in a team."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85391
+#, no-wrap
+msgid "Help new developers coming in Debian Project as a mentor. Learn from people experienced in packaging practices and learn to understand the Debian way."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85403
+#, no-wrap
+msgid "Found a bug? Report it! You can use the webpage or &quot;reportbug&quot; tool."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85427
+#, no-wrap
+msgid "Participate in Debian Popularity Contest"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85428
+#, no-wrap
+msgid "Say &quot;yes&quot; at install time. It will help to choose packages for the first CD/DVD and to assess user-base for any package"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85440
+#, no-wrap
+msgid "http://popcon.debian.org/"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85452
+#, no-wrap
+msgid "Install, try and use in your computer."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85464
+#, no-wrap
+msgid "http://www.debian.org/distrib/"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85476
+#, no-wrap
+msgid "Promote meetings, parties on special Debian days, or presentations about Debian at IT events in your city or country."
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85477
+#, no-wrap
+msgid "Join to Debian Day."
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:85493
+#, no-wrap
+msgid "Software versions"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:85498
+#, no-wrap
+msgid "(2014-03-20)"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:85514
+#, no-wrap
+msgid "Developers"
+msgstr ""
+
+#. type: Content of: <svg><g><text><tspan>
+#: infographic_debian.svg:85530
+#, no-wrap
+msgid "Packages"
+msgstr ""
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: infographic_debian.svg:85551
+#, no-wrap
+msgid "The Debian Administrator's Handbook"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85564
+#, no-wrap
+msgid "Debian Bug Track System"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85575
+#, no-wrap
+msgid "Adventurous usersand developers"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85588
+#, no-wrap
+msgid "Adventurous users"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85589
+#, no-wrap
+msgid "and developers"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85601
+#, no-wrap
+msgid "General users"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85613
+#, no-wrap
+msgid "Conservative users"
+msgstr ""
+
+#. type: Content of: <svg><g><flowRoot><flowPara>
+#: infographic_debian.svg:85614
+#, no-wrap
+msgid "and servers"
+msgstr ""
+
+#. type: Content of: <svg><style>
+#: infographic_debian.svg:85799
+#, no-wrap
+msgid ""
+"\t/* Specular Highlighting */\n"
+"\t\t.low-specularity\t{opacity:0.25;}\n"
+"\t\t.specularity\t\t{opacity:0.5;}\n"
+"\t\t.high-specularity\t{opacity:0.75;}\n"
+"\t\t.full-specularity\t{opacity:1;}\n"
+"\n"
+"\t/* Shading */\n"
+"\t\t.low-shade\t{opacity:0.25;}\n"
+"\t\t.shade\t\t{opacity:0.5;}\n"
+"\t\t.high-shade\t{opacity:0.75;}\n"
+"\t\t.full-shade\t{opacity:1;}\n"
+"\n"
+"\t/* Tango palette fill/stroke */\n"
+"\t\t.black\t\t{fill:#000;}\n"
+"\t\t.aluminium1\t{fill:#eeeeec;}\n"
+"\t\t.aluminium2\t{fill:#d3d7cf;}\n"
+"\t\t.aluminium6\t{fill:#2e3436;}\n"
+"\t\t.chocolate3\t{fill:#8f5902;}\n"
+"\t\t.chocolate2\t{fill:#c17d11;}\n"
+"\t\t.aluminium4\t{fill:#888a85;}\n"
+"\n"
+"\t/* Shadows: Back-Shadows &amp; Base Shadows */\n"
+"\t\t.base-shadow\t{opacity:0.4;}\n"
+"\t\t.outline-big\t{stroke:black;stroke-width:8;opacity:0.25;stroke-linejoin:round;}\n"
+"\t\t.outline-small\t{stroke:black;stroke-width:4;opacity:0.5;stroke-linejoin:round;}\n"
+"\t\t.stroke-highlight\t{fill:none;stroke:white;stroke-opacity:0.2;stroke-width:4;stroke-linejoin:round;}\n"
+"\t"
+msgstr ""
