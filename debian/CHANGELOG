@@ -1,12 +1,27 @@
-* version 2.2
+* version 3.0
+   - Added DebConf15;
+   - Added DebConf16;
+   - Added new testing version: Stretch;
    - Added SteamOS distro as derivative;
+   - Added Devuan distro as derivative;
    - Added The Debian Administrator's Handbook;
    - Added The Bug Tracker System;
    - Added the Explained box about deb package;
    - Added LTS - Long Term Support for Squezee;
+   - Added Ian Murdock passed away;
+   - Added Tails as pure bland of Debian;
+   - Added "The future is Open!";
+   - Changed the license to CC by-sa 4.0;
+   - Revised all type fonts used;
+   - Revised all supported archictetures with its additions and remotions;
    - Small space adjusts in 1993-1996;
    - Typo corrections for en-us - Thanks to Gijs Hillenius, Martin 
      Schuster, Brian Foley, Uwe Jugel;
+   - Update and expansion of software's table (2016-06-12);
+   - Update of Package and developers table (2015-10);
+   - Update of Distribution Popularaty table (2015-10);
+   - Update of developers around the World;
+   - Update of Debian logo in the right-bottom corner;
 
 * version 2.1
    - Added Jessie as testing and Wheezy as stable;
