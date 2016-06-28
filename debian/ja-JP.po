@@ -1,0 +1,1326 @@
+# Japanese translations for Debian's Infographic package
+# Copyright (C) 2016 Claudio Ferreira Filho
+# This file is distributed under the same license as the Debian's Infographic package.
+# Ryuunosuke Ayanokouzi <i38w7i3@yahoo.co.jp>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Debian's Infographic 3.0\n"
+"Report-Msgid-Bugs-To: Claudio Ferreira Filho <filhocf@gmail.com>\n"
+"POT-Creation-Date: 2016-06-28 09:00+0900\n"
+"PO-Revision-Date: 2016-06-28 09:00+0900\n"
+"Last-Translator: AYANOKOUZI, Ryuunosuke <i38w7i3@yahoo.co.jp>\n"
+"Language-Team: Japanese <https://github.com/l/infographics/tree/master/translation/ja_JP>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
+#: en-US.svg:29
+#, no-wrap
+msgid "image/svg+xml"
+msgstr "image/svg+xml"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:91
+#, no-wrap
+msgid "On 1993-08-16, Ian Murdock announced the birth of Debian."
+msgstr "1993 年 8 月 16 日、Ian Murdock さんが Debian の誕生を発表しました。"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:108
+#, no-wrap
+msgid "Release Process"
+msgstr "リリースプロセス"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:124
+#, no-wrap
+msgid "Intended for:"
+msgstr "想定利用対象層:"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:144
+#, no-wrap
+msgid "Understanding Debian"
+msgstr "Debian の基礎知識"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:159
+#, no-wrap
+msgid "The universal operating system"
+msgstr "ユニバーサルオペレーティングシステム"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:176
+#, no-wrap
+msgid "Lastest versions always are incorporated in Sid (unstable)."
+msgstr "最新版は常に Sid (不安定版) に組み込まれます。"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:190
+#, no-wrap
+msgid "Sources"
+msgstr "上流開発側"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:209 en-US.svg:1293
+#, no-wrap
+msgid "Unstable"
+msgstr "不安定版"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:229 en-US.svg:665 en-US.svg:684 en-US.svg:1319
+#, no-wrap
+msgid "Stable"
+msgstr "安定版"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:259
+#, no-wrap
+msgid "current testing version"
+msgstr "現在のテスト版"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:278 en-US.svg:1280
+#, no-wrap
+msgid "Experimental"
+msgstr "実験版"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:299
+#, no-wrap
+msgid "Unstable: also known as SID, the neighbor who broke toys. Eternally unstable. This is an area for package stabilization. SID: Still in Development"
+msgstr "不安定版: 通称 SID (おもちゃを壊す隣人)、永遠に不安定です。ここではパッケージの安定化を行います。SID は Still in Development (まだ開発中) を意味します。"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:321
+#, no-wrap
+msgid "repositories"
+msgstr "リポジトリ"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:342
+#, no-wrap
+msgid "Testing: stabilization area for the distribution as a whole. It is released as stable version when ready."
+msgstr "テスト版: ここでは全般的なディストリビューションの安定化を行います。準備が整い次第、安定版として公開されます。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:364
+#, no-wrap
+msgid "Stable: when a new version is released, it gets a codename. The first codename was  Buzz, from Toy Story movie."
+msgstr "安定版: コードネームは新バージョンの公開時に決定されます。最初のコードネームは Buzz で映画トイ・ストーリーから取られました。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:387
+#, no-wrap
+msgid "When a new version is released as stable, it immediately open space in testing. Then a new cycle of distribution stabilization is started for a future release. The process follows a continuous and natural flow."
+msgstr "新バージョンが安定版としてリリースされることで、テスト版の枠が空きます。そして将来のリリースに向けてディストリビューション安定化サイクルが新たに始まります。全てのプロセスは連続的で自然な流れに従います。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:408
+#, no-wrap
+msgid "Experimental: area for bleeding edge version and experimentation. It is used periodically."
+msgstr "実験版: ここでは開発テスト版の実験を行います。定期的に利用されます。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:427 en-US.svg:708 en-US.svg:1306
+#, no-wrap
+msgid "Testing"
+msgstr "テスト版"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:449
+#, no-wrap
+msgid "In general it is used to incorporate a great set of packages before going into unstable."
+msgstr "一般に、実験版は巨大なパッケージを不安定版に組み込むために利用されます。"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:470
+#, no-wrap
+msgid "Pure blend"
+msgstr "Pure Blend"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:490
+#, no-wrap
+msgid "Derivatives"
+msgstr "派生物"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:512
+#, no-wrap
+msgid "2003-08-16"
+msgstr "2003 年 8 月 16 日"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:514
+#, no-wrap
+msgid "10 years of Debian Project"
+msgstr "Debian プロジェクトの 10 年目"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:537
+#, no-wrap
+msgid "Debian Women: Seeks to provide balance and to diversify the Debian community. Actively engaged with stakeholders and encourages women to become more involved with Debian."
+msgstr "Debian Women: Debian における男女比のバランスを取り、多様化を進めています。また、出資者と議論して女性が Debian に参加することを奨励しています。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:560
+#, no-wrap
+msgid "2011-08-16"
+msgstr "2011 年 8 月 16 日"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:562
+#, no-wrap
+msgid "18 years. "
+msgstr "18 歳。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:564
+#, no-wrap
+msgid "Age of majority."
+msgstr "成人しました。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:585
+#, no-wrap
+msgid "Debian Mentors: Focused on helping new developers."
+msgstr "Debian Mentor: 新規開発者の補助に重点的に取り組んでいます。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:607
+#, no-wrap
+msgid "Under the DFSG, all changes made ​​in Debian are made available to upstream authors, benefiting Debian itself and  other distributions."
+msgstr "DFSG に従い、Debian に加えられた全ての変更は上流開発側にフィードバックされるため、Debian 自身とそれ以外のディストリビューションも恩恵を受けます。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:623
+#, no-wrap
+msgid "On 1997-07-05, the Debian Free Software Guideline was created."
+msgstr "1997 年 7 月 5 日、Debian フリーソフトウェアガイドラインが作られました。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:636
+#, no-wrap
+msgid "Pure Blend: Debian Pure Blends provide a solution for special groups of target users  with different skills and interests."
+msgstr "Pure Blend: Debian Pure Blend は特定の分野に関してさまざまな技術と興味を持つユーザ向けに解決策を提供します。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:650
+#, no-wrap
+msgid "Derivatives: Debian provides a solid foundation to build a new custom distribution."
+msgstr "派生物: Debian は新しいカスタムディストリビューションを作るための確固たる基礎を提供します。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:663 en-US.svg:682 en-US.svg:706
+#, no-wrap
+msgid "Security team"
+msgstr "セキュリティチーム"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:729
+#, no-wrap
+msgid "Debian Live: provides a framework to build official or customized Debian Live images to boot into Debian without requiring installation."
+msgstr "Debian Live: インストールせずに Debian を起動するための Debian Live イメージを公式ビルドしたり、カスタマイズされたイメージをビルドしたりするフレームワークを提供します。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:743
+#, no-wrap
+msgid "Quality Assurance team"
+msgstr "品質保証チーム"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:761
+#, no-wrap
+msgid "Firsts steps (easy)"
+msgstr "最初の一歩 (初級)"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:781
+#, no-wrap
+msgid "Participating more inside of Debian (medium)"
+msgstr "Debian のさらに内部へ参加 (中級)"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:801
+#, no-wrap
+msgid "Get involved!"
+msgstr "参加しましょう!"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:816
+#, no-wrap
+msgid "Do you like events?"
+msgstr "イベントがお好きですか?"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:834
+#, no-wrap
+msgid "You inside of Debian (hard? No. Be a part in Debian Project!)"
+msgstr "Debian の中の人になる (上級? そんなことはありません。Debian プロジェクトに参加しましょう!)"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:849 en-US.svg:895
+#, no-wrap
+msgid "Do you like to program?"
+msgstr "プログラミングがお好きですか?"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:866
+#, no-wrap
+msgid "Subscribe in the devel lists, talk with other developers and join a team with similar interests in Debian Project. "
+msgstr "開発メーリングリストに登録して、他の開発者と話して、Debian プロジェクト内で同じ興味を持つチームに参加しましょう。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:868
+#, no-wrap
+msgid "WELCOME and ENJOY!"
+msgstr "Debian にようこそ! ご参加を歓迎します!"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:882
+#, no-wrap
+msgid "do you wish to be a team member?"
+msgstr "チームの一員になりたいですか?"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:908
+#, no-wrap
+msgid "Do you like to translate?"
+msgstr "翻訳がお好きですか?"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:921
+#, no-wrap
+msgid "Do you like to write?"
+msgstr "物書きがお好きですか?"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:940
+#, no-wrap
+msgid "The Debian Way"
+msgstr "Debian の流儀が"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:945
+#, no-wrap
+msgid "for Illumination"
+msgstr "世を照らす"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:960
+#, no-wrap
+msgid "DD"
+msgstr "DD"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:962
+#, no-wrap
+msgid "Debian Developer"
+msgstr "Debian 開発者が"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:964
+#, no-wrap
+msgid "The illumination"
+msgstr "世を照らす"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:977
+#, no-wrap
+msgid "Read the technical documentation in the Developers' Corner, like New Maintainers' Guide, Debian Policy Manual or Debian Developer's Reference."
+msgstr "開発者のコーナーにある、新メンテナガイド、Debian ポリシーマニュアル、Debian 開発者リファレンスなどの技術文書を読みましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:990
+#, no-wrap
+msgid "Found a bug?  Send a patch!"
+msgstr "バグ発見? パッチを送りましょう!"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1003
+#, no-wrap
+msgid "Translate Debian web pages, manuals or package descriptions."
+msgstr "Debian のウェブページ、マニュアル、パッケージ説明を翻訳しましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1016
+#, no-wrap
+msgid "Write a manual, book or other materials that can help new users."
+msgstr "マニュアル、書籍、新しいユーザ向けの文献を執筆しましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1029
+#, no-wrap
+msgid "Adopt an orphaned package or start a packaging with a new software, alone or by joing in a team."
+msgstr "みなしご化しているパッケージのメンテナになるか、一人でかチームに入ることで新しいソフトウェアのパッケージングを始めましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1042
+#, no-wrap
+msgid "Help new developers coming in Debian Project as a mentor. Learn from people experienced in packaging practices and learn to understand the Debian way."
+msgstr "Debian プロジェクトに参加したばかりの開発者を指導者として手助けしましょう。パッケージ化に精通している人から学び、Debian 流を理解する方法を習得しましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1055
+#, no-wrap
+msgid "Found a bug? Report it! You can use the webpage or &quot;reportbug&quot; tool."
+msgstr "バグ発見? 報告しましょう! ウェブページや &quot;reportbug&quot; ツールを使いましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1068
+#, no-wrap
+msgid "Participate in Debian Popularity Contest"
+msgstr "Debian Popularity Contest に参加しましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1070
+#, no-wrap
+msgid "Say &quot;yes&quot; at install time. It will help to choose packages for the first CD/DVD and to assess user-base for any package"
+msgstr "インストール時に「はい」を選ぶことで、CD や DVD の 1 枚目に収録するパッケージの選別やパッケージ利用者層の評価を手助けすることになります。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1083
+#, no-wrap
+msgid "Install, try and use in your computer."
+msgstr "Debian をコンピュータにインストールしたり、試したり、使ったりしましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1096
+#, no-wrap
+msgid "Promote meetings, parties on special Debian days, or presentations about Debian at IT events in your city or country."
+msgstr "会議、特別な Debian デーのパーティ、あなたの都市や国で開催される IT イベントにおいて Debian に関するプレゼンテーションを企画運営しましょう。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1098
+#, no-wrap
+msgid "Join to Debian Day."
+msgstr "Debian デーに参加しましょう。"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:1120
+#, no-wrap
+msgid "The Debian Administrator's Handbook"
+msgstr "Debian 管理者ハンドブック"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1134
+#, no-wrap
+msgid "Debian Bug Track System"
+msgstr "Debian バグ追跡システム"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1147
+#, no-wrap
+msgid "Adventurous users and developers"
+msgstr "冒険好きなユーザと開発者"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1160
+#, no-wrap
+msgid "General users"
+msgstr "一般的なユーザ"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1173
+#, no-wrap
+msgid "Conservative users and servers"
+msgstr "保守的なユーザとサーバ"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1185
+#, no-wrap
+msgid "Claudio F Filho (filhocf) &lt;filhocf@gmail.com&gt;"
+msgstr "Claudio F Filho (filhocf) &lt;filhocf@gmail.com&gt;"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1187
+#, no-wrap
+msgid "12/06/2016 - version 3.0 - Made with Inkscape."
+msgstr "2016 年 6 月 12 日 - バージョン 3.0 - Inkscape で作成。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1189
+#, no-wrap
+msgid "Understanding Debian is licensed under CC By-SA 4.0 "
+msgstr "Debian の基礎知識は CC By-SA 4.0 ライセンスの下で使用許諾されています。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1191
+#, no-wrap
+msgid "All versions are available at http://cfnarede.com.br/infografico-do-debian"
+msgstr "すべてのバージョンは http://cfnarede.com.br/infografico-do-debian から入手できます。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1193
+#, no-wrap
+msgid "Debian is a trademark of Software Public Interest Inc. All trademarks are exclusive property of their respective owners. All characters in the movie in the Toy Story movie are the property of Pixar/Disney. "
+msgstr "Debian は Software Public Interest Inc. の登録商標です。全ての商標はその持ち主に独占的な所有権が与えられています。映画トイ・ストーリーに出てくる全てのキャラクターは Pixar/Disney に所有権があります。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1195
+#, no-wrap
+msgid "Many cliparts used here are from OpenCliparts.org project."
+msgstr "ここで利用している多くのクリップアートは OpenCliparts.org プロジェクトからのものです。"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1224
+#, no-wrap
+msgid "New logo 1999-05"
+msgstr "新しいロゴ 1999 年 5 月"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:1244
+#, no-wrap
+msgid "2015-12-28"
+msgstr "2015 年 12 月 28 日"
+
+#. type: Content of: <svg><g><g><g><flowRoot><flowPara>
+#: en-US.svg:1246
+#, no-wrap
+msgid "Ian Murdock passed away"
+msgstr "Ian Murdock さんが亡くなりました"
+
+#. type: Content of: <svg><g><g><g><text><tspan>
+#: en-US.svg:1265
+#, no-wrap
+msgid "The Future is Open!"
+msgstr "未来は明るい!"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1334
+#, no-wrap
+msgid "Developers"
+msgstr "開発者数"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1350
+#, no-wrap
+msgid "Packages"
+msgstr "パッケージ数"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1361
+#, no-wrap
+msgid "Courtesy"
+msgstr "提供:"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1372
+#, no-wrap
+msgid "Registered Debian users"
+msgstr "登録済み Debian ユーザ数"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1387
+#, no-wrap
+msgid "Distribution Popularity"
+msgstr "ディストリビューション利用者数の順位"
+
+#. type: Content of: <svg><g><g><flowRoot><flowPara>
+#: en-US.svg:1405
+#, no-wrap
+msgid "Distribution of Debian developers around the world"
+msgstr "世界中にいる Debian 開発者の分布"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1421
+#, no-wrap
+msgid "Software versions"
+msgstr "収録ソフトウェアのバージョン"
+
+#. type: Content of: <svg><g><g><text><tspan>
+#: en-US.svg:1426
+#, no-wrap
+msgid "(2016-06-12)"
+msgstr "(2016 年 6 月 12 日)"
+
+#~ msgid "2000"
+#~ msgstr "2000 年"
+
+#~ msgid "2011"
+#~ msgstr "2011 年"
+
+#~ msgid "1993"
+#~ msgstr "1993 年"
+
+#~ msgid "1994"
+#~ msgstr "1994 年"
+
+#~ msgid "1995"
+#~ msgstr "1995 年"
+
+#~ msgid "1996"
+#~ msgstr "1996 年"
+
+#~ msgid "1997"
+#~ msgstr "1997 年"
+
+#~ msgid "1998"
+#~ msgstr "1998 年"
+
+#~ msgid "2001"
+#~ msgstr "2001 年"
+
+#~ msgid "2002"
+#~ msgstr "2002 年"
+
+#~ msgid "2010"
+#~ msgstr "2010 年"
+
+#~ msgid "2005"
+#~ msgstr "2005 年"
+
+#~ msgid "2008"
+#~ msgstr "2008 年"
+
+#~ msgid "2006"
+#~ msgstr "2006 年"
+
+#~ msgid "2007"
+#~ msgstr "2007 年"
+
+#~ msgid "1999"
+#~ msgstr "1999 年"
+
+#~ msgid "2003"
+#~ msgstr "2003 年"
+
+#~ msgid "2009"
+#~ msgstr "2009 年"
+
+#~ msgid "2004"
+#~ msgstr "2004 年"
+
+#~ msgid "2012"
+#~ msgstr "2012 年"
+
+#~ msgid "2013"
+#~ msgstr "2013 年"
+
+#~ msgid "2014"
+#~ msgstr "2014 年"
+
+#~ msgid "2015"
+#~ msgstr "2015 年"
+
+#~ msgid "2016"
+#~ msgstr "2016 年"
+
+#~ msgid "2017"
+#~ msgstr "2017 年"
+
+#~ msgid "Skol linux"
+#~ msgstr "Skol linux"
+
+#~ msgid "TM"
+#~ msgstr "TM"
+
+#~ msgid "hemistry"
+#~ msgstr "chemistry"
+
+#~ msgid "®"
+#~ msgstr "®"
+
+#~ msgid "DEB"
+#~ msgstr "DEB"
+
+#~ msgid "mips"
+#~ msgstr "mips"
+
+#~ msgid "(big endian)"
+#~ msgstr "(ビッグエンディアン)"
+
+#~ msgid "i386"
+#~ msgstr "i386"
+
+#~ msgid "Debian.net"
+#~ msgstr "Debian.net"
+
+#~ msgid "DFSG"
+#~ msgstr "DFSG"
+
+#~ msgid "m68k"
+#~ msgstr "m68k"
+
+#~ msgid "PowerPC"
+#~ msgstr "PowerPC"
+
+#~ msgid "ARM"
+#~ msgstr "ARM"
+
+#~ msgid "IA-64"
+#~ msgstr "IA-64"
+
+#~ msgid "mipsel"
+#~ msgstr "mipsel"
+
+#~ msgid "(little endian)"
+#~ msgstr "(リトルエンディアン)"
+
+#~ msgid "S/390"
+#~ msgstr "S/390"
+
+#~ msgid "HP PA"
+#~ msgstr "HP PA"
+
+#~ msgid "RISC"
+#~ msgstr "RISC"
+
+#~ msgid "AMD64"
+#~ msgstr "AMD64"
+
+#~ msgid "Alpha"
+#~ msgstr "Alpha"
+
+#~ msgid "SPARC"
+#~ msgstr "SPARC"
+
+#~ msgid "2001-07"
+#~ msgstr "2001 年 7 月"
+
+#~ msgid "2003-05"
+#~ msgstr "2003 年 5 月"
+
+#~ msgid "2006-11"
+#~ msgstr "2006 年 11 月"
+
+#~ msgid "arm"
+#~ msgstr "arm"
+
+#~ msgid "armel"
+#~ msgstr "armel"
+
+#~ msgid "(32bits)"
+#~ msgstr "(32 ビット)"
+
+#~ msgid "armhf"
+#~ msgstr "armhf"
+
+#~ msgid "s390"
+#~ msgstr "s390"
+
+#~ msgid "s390x"
+#~ msgstr "s390x"
+
+#~ msgid "(64bits)"
+#~ msgstr "(64 ビット)"
+
+#~ msgid "Multiarch"
+#~ msgstr "Multiarch"
+
+#~ msgid "(i386/amd64)"
+#~ msgstr "(i386/amd64)"
+
+#~ msgid "Multiarch(i386/amd64)Multiarch(i386/amd64)"
+#~ msgstr "Multiarch(i386/amd64)Multiarch(i386/amd64)"
+
+#~ msgid "powerpc"
+#~ msgstr "powerpc"
+
+#~ msgid "ppc64el"
+#~ msgstr "ppc64el"
+
+#~ msgid "arm64"
+#~ msgstr "arm64"
+
+#~ msgid "2010-08"
+#~ msgstr "2010 年 8 月"
+
+#~ msgid "SystemD"
+#~ msgstr "systemd"
+
+#~ msgid "designed for"
+#~ msgstr "designed for"
+
+#~ msgid "Rex"
+#~ msgstr "Rex"
+
+#~ msgid "1996-12"
+#~ msgstr "1996 年 12 月"
+
+#~ msgid "Hamm"
+#~ msgstr "Hamm"
+
+#~ msgid "1998-07"
+#~ msgstr "1998 年 7 月"
+
+#~ msgid "0.1"
+#~ msgstr "0.1"
+
+#~ msgid "1993-08"
+#~ msgstr "1993 年 8 月"
+
+#~ msgid "0.93R6"
+#~ msgstr "0.93R6"
+
+#~ msgid "1995-11"
+#~ msgstr "1995 年 11 月"
+
+#~ msgid "Slink"
+#~ msgstr "Slink"
+
+#~ msgid "1999-03"
+#~ msgstr "1999 年 3 月"
+
+#~ msgid "Potato"
+#~ msgstr "Potato"
+
+#~ msgid "2000-08"
+#~ msgstr "2000 年 8 月"
+
+#~ msgid "Woody"
+#~ msgstr "Woody"
+
+#~ msgid "2002-07"
+#~ msgstr "2002 年 7 月"
+
+#~ msgid "Sarge"
+#~ msgstr "Sarge"
+
+#~ msgid "2005-06"
+#~ msgstr "2005 年 6 月"
+
+#~ msgid "Squeeze"
+#~ msgstr "Squeeze"
+
+#~ msgid "2011-02"
+#~ msgstr "2011 年 2 月"
+
+#~ msgid "Lenny"
+#~ msgstr "Lenny"
+
+#~ msgid "2009-02"
+#~ msgstr "2009 年 2 月"
+
+#~ msgid "Wheezy"
+#~ msgstr "Wheezy"
+
+#~ msgid "2013-04"
+#~ msgstr "2013 年 4 月"
+
+#~ msgid "Etch"
+#~ msgstr "Etch"
+
+#~ msgid "2007-04"
+#~ msgstr "2007 年 4 月"
+
+#~ msgid "Buzz"
+#~ msgstr "Buzz"
+
+#~ msgid "1996-06"
+#~ msgstr "1996 年 6 月"
+
+#~ msgid "0.91"
+#~ msgstr "0.91"
+
+#~ msgid "1994-01"
+#~ msgstr "1994 年 1 月"
+
+#~ msgid "Bo"
+#~ msgstr "Bo"
+
+#~ msgid "1997-07"
+#~ msgstr "1997 年 7 月"
+
+#~ msgid "Jessie"
+#~ msgstr "Jessie"
+
+#~ msgid "2015-04"
+#~ msgstr "2015 年 04 月"
+
+#~ msgid "Stretch"
+#~ msgstr "Stretch"
+
+#~ msgid "1 - 50"
+#~ msgstr "1 から 50"
+
+#~ msgid "51 - 500"
+#~ msgstr "51 から 500"
+
+#~ msgid "501 - 1000"
+#~ msgstr "501 から 1000"
+
+#~ msgid "1001 - 2000"
+#~ msgstr "1001 から 2000"
+
+#~ msgid "2000+"
+#~ msgstr "2000 以上"
+
+#~ msgid "Linux Counter Project"
+#~ msgstr "Linux Counter プロジェクト"
+
+#~ msgid "1º"
+#~ msgstr "1º"
+
+#~ msgid "2º"
+#~ msgstr "2º"
+
+#~ msgid "3º"
+#~ msgstr "3º"
+
+#~ msgid "4º"
+#~ msgstr "4º"
+
+#~ msgid "5º"
+#~ msgstr "5º"
+
+#~ msgid "6º"
+#~ msgstr "6º"
+
+#~ msgid "7º"
+#~ msgstr "7º"
+
+#~ msgid "DistroWatch.com"
+#~ msgstr "DistroWatch.com"
+
+#~ msgid "4.5+73"
+#~ msgstr "4.5+73"
+
+#~ msgid "45.2.0esr-1"
+#~ msgstr "45.2.0esr-1"
+
+#~ msgid "51.0.2704.79-1"
+#~ msgstr "51.0.2704.79-1"
+
+#~ msgid "2.2.4-1"
+#~ msgstr "2.2.4-1"
+
+#~ msgid "0.91-9+b1"
+#~ msgstr "0.91-9+b1"
+
+#~ msgid "2.8.16-2"
+#~ msgstr "2.8.16-2"
+
+#~ msgid "3.14+5"
+#~ msgstr "3.14+5"
+
+#~ msgid "4.16.04.1-1"
+#~ msgstr "4.16.04.1-1"
+
+#~ msgid "3.16+63"
+#~ msgstr "3.16+63"
+
+#~ msgid "45.2.0esr-1~deb8u1"
+#~ msgstr "45.2.0esr-1~deb8u1"
+
+#~ msgid "51.0.2704.79-1~deb8u1"
+#~ msgstr "51.0.2704.79-1~deb8u1"
+
+#~ msgid "2.2.4-1~deb8u1"
+#~ msgstr "2.2.4-1~deb8u1"
+
+#~ msgid "0.91-5~bpo8+1"
+#~ msgstr "0.91-5~bpo8+1"
+
+#~ msgid "2.8.14-1+b1"
+#~ msgstr "2.8.14-1+b1"
+
+#~ msgid "3.14+3"
+#~ msgstr "3.14+3"
+
+#~ msgid "4.14.2-1"
+#~ msgstr "4.14.2-1"
+
+#~ msgid "4.6+74"
+#~ msgstr "4.6+74"
+
+#~ msgid "47.0-1"
+#~ msgstr "47.0-1"
+
+#~ msgid "2.2.4-2"
+#~ msgstr "2.2.4-2"
+
+#~ msgid "---"
+#~ msgstr "---"
+
+#~ msgid "48.0~b1-1"
+#~ msgstr "48.0~b1-1"
+
+#~ msgid "1600"
+#~ msgstr "1,600"
+
+#~ msgid "1400"
+#~ msgstr "1,400"
+
+#~ msgid "1200"
+#~ msgstr "1,200"
+
+#~ msgid "1000"
+#~ msgstr "1,000"
+
+#~ msgid "800"
+#~ msgstr "800"
+
+#~ msgid "600"
+#~ msgstr "600"
+
+#~ msgid "400"
+#~ msgstr "400"
+
+#~ msgid "200"
+#~ msgstr "200"
+
+#~ msgid "23000"
+#~ msgstr "23,000"
+
+#~ msgid "18200"
+#~ msgstr "18,200"
+
+#~ msgid "15400"
+#~ msgstr "15,400"
+
+#~ msgid "8500"
+#~ msgstr "8,500"
+
+#~ msgid "3900"
+#~ msgstr "3,900"
+
+#~ msgid "2250"
+#~ msgstr "2,250"
+
+#~ msgid "1500"
+#~ msgstr "1,500"
+
+#~ msgid "30.000"
+#~ msgstr "30,000"
+
+#~ msgid "26.250"
+#~ msgstr "26,250"
+
+#~ msgid "22.500"
+#~ msgstr "22,500"
+
+#~ msgid "18.750"
+#~ msgstr "18,750"
+
+#~ msgid "15.000"
+#~ msgstr "15,000"
+
+#~ msgid "11.250"
+#~ msgstr "11,250"
+
+#~ msgid "7.500"
+#~ msgstr "7,500"
+
+#~ msgid "3.750"
+#~ msgstr "3,750"
+
+#~ msgid "974"
+#~ msgstr "974"
+
+#~ msgid "848"
+#~ msgstr "848"
+
+#~ msgid "474"
+#~ msgstr "474"
+
+#~ msgid "120"
+#~ msgstr "120"
+
+#~ msgid "450"
+#~ msgstr "450"
+
+#~ msgid "900"
+#~ msgstr "900"
+
+#~ msgid "1010"
+#~ msgstr "1,010"
+
+#~ msgid "1450"
+#~ msgstr "1,450"
+
+#~ msgid "1030"
+#~ msgstr "1,030"
+
+#~ msgid "48.600"
+#~ msgstr "48,600"
+
+#~ msgid "29000"
+#~ msgstr "29,000"
+
+#~ msgid "1490"
+#~ msgstr "1,490"
+
+#~ msgid "48600"
+#~ msgstr "48,600"
+
+#~ msgid "43000"
+#~ msgstr "43,000"
+
+#~ msgid "1090"
+#~ msgstr "1,090"
+
+#~ msgid "Murdock"
+#~ msgstr "Murdock"
+
+#~ msgid "SEE YOU IN"
+#~ msgstr "SEE YOU IN"
+
+#~ msgid "HEL"
+#~ msgstr "HEL"
+
+#~ msgid "DebConf 1"
+#~ msgstr "DebConf 1"
+
+#~ msgid "DebConf 2"
+#~ msgstr "DebConf 2"
+
+#~ msgid "DebConf 3"
+#~ msgstr "DebConf 3"
+
+#~ msgid "2003-07"
+#~ msgstr "2003 年 7 月"
+
+#~ msgid "DebConf14"
+#~ msgstr "DebConf14"
+
+#~ msgid "Portland"
+#~ msgstr "Portland"
+
+#~ msgid "Portland State University"
+#~ msgstr "Portland State University"
+
+#~ msgid "Matthew Marjanovic &lt;maddog@mir.com&gt;, September 2013"
+#~ msgstr "Matthew Marjanovic &lt;maddog@mir.com&gt;, September 2013"
+
+#~ msgid "#!/usr/bin/python"
+#~ msgstr "#!/usr/bin/python"
+
+#~ msgid "# Python exception handling."
+#~ msgstr "# Python の例外処理。"
+
+#~ msgid "# Choose two random integers."
+#~ msgstr "# ランダムな 2 つの整数を選びます。"
+
+#~ msgid "import random"
+#~ msgstr "import random"
+
+#~ msgid "i = random.randrange(0, 8)"
+#~ msgstr "i = random.randrange(0, 8)"
+
+#~ msgid "j = random.randrange(-1, 6)"
+#~ msgstr "j = random.randrange(-1, 6)"
+
+#~ msgid "print i, j"
+#~ msgstr "print i, j"
+
+#~ msgid "http://www.debian.org/Bugs/"
+#~ msgstr "http://www.debian.org/Bugs/"
+
+#~ msgid "http://www.debian.org/doc/ddp"
+#~ msgstr "http://www.debian.org/doc/ddp"
+
+#~ msgid "http://www.debian.org/devel/website/"
+#~ msgstr "http://www.debian.org/devel/website/"
+
+#~ msgid "http://www.debian.org/international/l10n/ddtp"
+#~ msgstr "http://www.debian.org/international/l10n/ddtp"
+
+#~ msgid "http://www.debian.org/Devel/"
+#~ msgstr "http://www.debian.org/Devel/"
+
+#~ msgid "http://popcon.debian.org/"
+#~ msgstr "http://popcon.debian.org/"
+
+#~ msgid "http://www.debian.org/distrib/"
+#~ msgstr "http://www.debian.org/distrib/"
+
+#~ msgid "Participate in Debian Popularity Contest. Say &quot;yes&quot; at install time. It will help to choose packages for the first CD/DVD and to assess user-base for any package."
+#~ msgstr "Debian Popularity Contest に参加しましょう。インストール時に「はい」を選択してください。こうすることで、CD や DVD の 1 枚目に収録するパッケージを選んだり、任意のパッケージのユーザ層を評価したりする作業を手助けすることになります。"
+
+#~ msgid "Understanding Debian is licensed under CC By-SA 4.0  "
+#~ msgstr "Debian の基礎知識は CC By-SA 4.0 ライセンスの下で使用許諾されています。"
+
+#~ msgid "Claudio Ferreira Filho"
+#~ msgstr "Claudio Ferreira Filho"
+
+#~ msgid "MIPS"
+#~ msgstr "MIPS"
+
+#~ msgid "3.13+56"
+#~ msgstr "3.13+56"
+
+#~ msgid "32.0.1700.123-4"
+#~ msgstr "32.0.1700.123-4"
+
+#~ msgid "2.1.2-2+b1"
+#~ msgstr "2.1.2-2+b1"
+
+#~ msgid "0.48.4-3+b1"
+#~ msgstr "0.48.4-3+b1"
+
+#~ msgid "3.8+4"
+#~ msgstr "3.8+4"
+
+#~ msgid "4.11.7-1"
+#~ msgstr "4.11.7-1"
+
+#~ msgid "3.2+46"
+#~ msgstr "3.2+46"
+
+#~ msgid "2.0.3-5"
+#~ msgstr "2.0.3-5"
+
+#~ msgid "0.48.3.1-1.3"
+#~ msgstr "0.48.3.1-1.3"
+
+#~ msgid "2.8.2-2"
+#~ msgstr "2.8.2-2"
+
+#~ msgid "3.4+7"
+#~ msgstr "3.4+7"
+
+#~ msgid "4.8.4-6"
+#~ msgstr "4.8.4-6"
+
+#~ msgid "24.4.0esr-1"
+#~ msgstr "24.4.0esr-1"
+
+#~ msgid "2.1.2-2+b2"
+#~ msgstr "2.1.2-2+b2"
+
+#~ msgid "1999-05"
+#~ msgstr "1999 年 5 月"
+
+#~ msgid "Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+#~ msgstr "帰属-非営利-継承 3.0 非移植ライセンスの下で使用許諾されています"
+
+#~ msgid "Debian is a trademark of Software Public Interest Inc."
+#~ msgstr "Debian は Software Public Interest Inc. の登録商標です。"
+
+#~ msgid "All trademarks are exclusive property of their respective owners."
+#~ msgstr "全ての商標はその持ち主に独占的な所有権が与えられています。"
+
+#~ msgid "All characters in the movie in the Toy Story movie are the property of Pixar/Disney."
+#~ msgstr "映画トイ・ストーリーに出てくる全てのキャラクターは Pixar/Disney に所有権があります。"
+
+#~ msgid "Unstable:"
+#~ msgstr "Unstable (不安定版):"
+
+#~ msgid " also known as "
+#~ msgstr " おもちゃを壊す隣人、"
+
+#~ msgid "SID"
+#~ msgstr "SID"
+
+#~ msgid ", the neighbor who broke toys. Eternally "
+#~ msgstr " としても知らており、永遠に"
+
+#~ msgid "unstable"
+#~ msgstr "不安定"
+
+#~ msgid ". This is an area for package stabilization. "
+#~ msgstr "です。ここではパッケージの安定化を行います。"
+
+#~ msgid ": Still in Development"
+#~ msgstr ": Still in Development (まだ開発中)"
+
+#~ msgid "Testing:"
+#~ msgstr "Testing (テスト版):"
+
+#~ msgid ", from "
+#~ msgstr " で"
+
+#~ msgid "Toy Story"
+#~ msgstr "映画トイ・ストーリー"
+
+#~ msgid " movie."
+#~ msgstr "からの引用です。"
+
+#~ msgid "Experimental:"
+#~ msgstr "Experimental:"
+
+#~ msgid "Debian Women:"
+#~ msgstr "Debian Women:"
+
+#~ msgid "Debian Mentors:"
+#~ msgstr "Debian Mentors:"
+
+#~ msgid "Pure Blend: "
+#~ msgstr "Pure Blend: "
+
+#~ msgid "Derivatives: "
+#~ msgstr "派生物: "
+
+#~ msgid "Debian Live: "
+#~ msgstr "Debian Live: "
+
+#~ msgid "provides"
+#~ msgstr "これは"
+
+#~ msgid "Adventurous users"
+#~ msgstr "冒険好きなユーザ"
+
+#~ msgid "and developers"
+#~ msgstr "と開発者"
+
+#~ msgid "and servers"
+#~ msgstr "とサーバ"
+
+#~ msgid ""
+#~ "\t/* Specular Highlighting */\n"
+#~ "\t\t.low-specularity\t{opacity:0.25;}\n"
+#~ "\t\t.specularity\t\t{opacity:0.5;}\n"
+#~ "\t\t.high-specularity\t{opacity:0.75;}\n"
+#~ "\t\t.full-specularity\t{opacity:1;}\n"
+#~ "\n"
+#~ "\t/* Shading */\n"
+#~ "\t\t.low-shade\t{opacity:0.25;}\n"
+#~ "\t\t.shade\t\t{opacity:0.5;}\n"
+#~ "\t\t.high-shade\t{opacity:0.75;}\n"
+#~ "\t\t.full-shade\t{opacity:1;}\n"
+#~ "\n"
+#~ "\t/* Tango palette fill/stroke */\n"
+#~ "\t\t.black\t\t{fill:#000;}\n"
+#~ "\t\t.aluminium1\t{fill:#eeeeec;}\n"
+#~ "\t\t.aluminium2\t{fill:#d3d7cf;}\n"
+#~ "\t\t.aluminium6\t{fill:#2e3436;}\n"
+#~ "\t\t.chocolate3\t{fill:#8f5902;}\n"
+#~ "\t\t.chocolate2\t{fill:#c17d11;}\n"
+#~ "\t\t.aluminium4\t{fill:#888a85;}\n"
+#~ "\n"
+#~ "\t/* Shadows: Back-Shadows &amp; Base Shadows */\n"
+#~ "\t\t.base-shadow\t{opacity:0.4;}\n"
+#~ "\t\t.outline-big\t{stroke:black;stroke-width:8;opacity:0.25;stroke-linejoin:round;}\n"
+#~ "\t\t.outline-small\t{stroke:black;stroke-width:4;opacity:0.5;stroke-linejoin:round;}\n"
+#~ "\t\t.stroke-highlight\t{fill:none;stroke:white;stroke-opacity:0.2;stroke-width:4;stroke-linejoin:round;}\n"
+#~ "\t"
+#~ msgstr ""
+#~ "\t/* Specular Highlighting */\n"
+#~ "\t\t.low-specularity\t{opacity:0.25;}\n"
+#~ "\t\t.specularity\t\t{opacity:0.5;}\n"
+#~ "\t\t.high-specularity\t{opacity:0.75;}\n"
+#~ "\t\t.full-specularity\t{opacity:1;}\n"
+#~ "\n"
+#~ "\t/* Shading */\n"
+#~ "\t\t.low-shade\t{opacity:0.25;}\n"
+#~ "\t\t.shade\t\t{opacity:0.5;}\n"
+#~ "\t\t.high-shade\t{opacity:0.75;}\n"
+#~ "\t\t.full-shade\t{opacity:1;}\n"
+#~ "\n"
+#~ "\t/* Tango palette fill/stroke */\n"
+#~ "\t\t.black\t\t{fill:#000;}\n"
+#~ "\t\t.aluminium1\t{fill:#eeeeec;}\n"
+#~ "\t\t.aluminium2\t{fill:#d3d7cf;}\n"
+#~ "\t\t.aluminium6\t{fill:#2e3436;}\n"
+#~ "\t\t.chocolate3\t{fill:#8f5902;}\n"
+#~ "\t\t.chocolate2\t{fill:#c17d11;}\n"
+#~ "\t\t.aluminium4\t{fill:#888a85;}\n"
+#~ "\n"
+#~ "\t/* Shadows: Back-Shadows &amp; Base Shadows */\n"
+#~ "\t\t.base-shadow\t{opacity:0.4;}\n"
+#~ "\t\t.outline-big\t{stroke:black;stroke-width:8;opacity:0.25;stroke-linejoin:round;}\n"
+#~ "\t\t.outline-small\t{stroke:black;stroke-width:4;opacity:0.5;stroke-linejoin:round;}\n"
+#~ "\t\t.stroke-highlight\t{fill:none;stroke:white;stroke-opacity:0.2;stroke-width:4;stroke-linejoin:round;}\n"
+#~ "\t"
+
+#~ msgid "Radical users and"
+#~ msgstr "先進的なユーザと"
+
+#~ msgid "users"
+#~ msgstr "ユーザ"
