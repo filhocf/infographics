@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Debian's Infographic 3.0\n"
 "Report-Msgid-Bugs-To: Claudio Ferreira Filho <filhocf@gmail.com>\n"
 "POT-Creation-Date: 2016-06-28 09:00+0900\n"
-"PO-Revision-Date: 2016-06-28 09:00+0900\n"
+"PO-Revision-Date: 2016-07-05 09:00+0900\n"
 "Last-Translator: AYANOKOUZI, Ryuunosuke <i38w7i3@yahoo.co.jp>\n"
 "Language-Team: Japanese <https://github.com/l/infographics/tree/master/translation/ja_JP>\n"
 "Language: ja\n"
@@ -303,13 +303,13 @@ msgstr "物書きがお好きですか?"
 #: en-US.svg:940
 #, no-wrap
 msgid "The Debian Way"
-msgstr "Debian の流儀が"
+msgstr "Debian 流の"
 
 #. type: Content of: <svg><g><g><g><text><tspan>
 #: en-US.svg:945
 #, no-wrap
 msgid "for Illumination"
-msgstr "世を照らす"
+msgstr "悟りを開く方法"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:960
@@ -321,13 +321,13 @@ msgstr "DD"
 #: en-US.svg:962
 #, no-wrap
 msgid "Debian Developer"
-msgstr "Debian 開発者が"
+msgstr "Debian 開発者"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:964
 #, no-wrap
 msgid "The illumination"
-msgstr "世を照らす"
+msgstr "悟りの境地に達した者"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:977
