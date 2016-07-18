@@ -785,7 +785,7 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:'M+ 1p';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           x="30"
+           x="23"
            y="644"
            id="layer.ja-JP.text31170"
            sodipodi:linespacing="125%"
@@ -793,10 +793,10 @@
            inkscape:export-xdpi="99.971573"
            inkscape:export-ydpi="99.971573"><tspan
              sodipodi:role="line"
-             x="30"
+             x="23"
              y="644"
              style="font-weight:bold"
-             id="layer.ja-JP.tspan31174">参加しましょう!</tspan></text>
+             id="layer.ja-JP.tspan31174">参加しましょう！</tspan></text>
       </g>
       <flowRoot
          xml:space="preserve"
@@ -811,7 +811,7 @@
              y="2022.891"
              style="font-weight:bold;font-size:12px;-inkscape-font-specification:'M+ 1p Bold'" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara31527">イベントがお好きですか?</flowPara></flowRoot>      <g
+           id="layer.ja-JP.flowPara31527">イベントがお好きですか？</flowPara></flowRoot>      <g
          transform="matrix(0.8765485,0,0,0.94601562,1609.4152,1627.4669)"
          id="layer.ja-JP.g32159"
          style="display:inline">
@@ -829,7 +829,7 @@
              y="470.73599"
              x="729.96796"
              sodipodi:role="line"
-             id="layer.ja-JP.tspan32163">Debian の中の人になる (上級? そんなことはありません。Debian プロジェクトに参加しましょう!)</tspan></text>
+             id="layer.ja-JP.tspan32163">Debian の中の人になる (上級？　そんなことはありません。Debian プロジェクトに参加しましょう！)</tspan></text>
       </g>
       <flowRoot
          xml:space="preserve"
@@ -844,7 +844,7 @@
              y="2022.891"
              style="font-weight:bold;font-size:12px;-inkscape-font-specification:'M+ 1p Bold'" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara33234">プログラミングがお好きですか?</flowPara></flowRoot>      <g
+           id="layer.ja-JP.flowPara33234">プログラミングがお好きですか？</flowPara></flowRoot>      <g
          style="display:inline"
          transform="translate(1367.7396,1160.5014)"
          id="layer.ja-JP.g33472">
@@ -863,7 +863,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium';text-align:justify;writing-mode:lr-tb;text-anchor:start"
              id="layer.ja-JP.flowPara33486">開発メーリングリストに登録して、他の開発者と話して、Debian プロジェクト内で同じ興味を持つチームに参加しましょう。</flowPara><flowPara
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-             id="layer.ja-JP.flowPara30088">Debian にようこそ! ご参加を歓迎します!</flowPara></flowRoot>      </g>
+             id="layer.ja-JP.flowPara30088">Debian にようこそ！　参加を歓迎します！</flowPara></flowRoot>      </g>
       <flowRoot
          transform="translate(1630.2375,145.37839)"
          style="font-style:normal;font-weight:bold;font-size:12px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -877,7 +877,7 @@
              width="250.65633"
              id="layer.ja-JP.rect33648" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara33650">チームの一員になりたいですか?</flowPara></flowRoot>      <flowRoot
+           id="layer.ja-JP.flowPara33650">チームの一員になりたいですか？</flowPara></flowRoot>      <flowRoot
          transform="matrix(0,-1,1,0,-828.9448,3278.9454)"
          style="font-style:normal;font-weight:bold;font-size:12px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="layer.ja-JP.flowRoot34113"
@@ -890,7 +890,7 @@
              width="100"
              id="layer.ja-JP.rect34117" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara34119">プログラミングがお好きですか?</flowPara></flowRoot>      <flowRoot
+           id="layer.ja-JP.flowPara34119">プログラミングがお好きですか？</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="layer.ja-JP.flowRoot34121"
          style="font-style:normal;font-weight:bold;font-size:12px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -903,7 +903,7 @@
              y="2022.891"
              style="font-weight:bold;font-size:12px;-inkscape-font-specification:'M+ 1p Bold'" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara34127">翻訳がお好きですか?</flowPara></flowRoot>      <flowRoot
+           id="layer.ja-JP.flowPara34127">翻訳がお好きですか？</flowPara></flowRoot>      <flowRoot
          transform="matrix(0,-1,1,0,-828.9448,3492.0202)"
          style="font-style:normal;font-weight:bold;font-size:12px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          id="layer.ja-JP.flowRoot34129"
@@ -916,7 +916,7 @@
              width="86.932899"
              id="layer.ja-JP.rect34133" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.00000095px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara34135">物書きがお好きですか?</flowPara></flowRoot>      <g
+           id="layer.ja-JP.flowPara34135">物書きがお好きですか？</flowPara></flowRoot>      <g
          id="layer.ja-JP.g34617"
          transform="matrix(0,-0.94602,0.94602,0,128.0746,3028.6566)"
          style="display:inline">
@@ -954,7 +954,7 @@
              y="969.36218"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 1m';-inkscape-font-specification:'M+ 1p Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 1m';-inkscape-font-specification:'M+ 1p Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-           id="layer.ja-JP.flowPara32135">DD</flowPara><flowPara
+           id="layer.ja-JP.flowPara32135" /><flowPara
            id="layer.ja-JP.flowPara32137"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'M+ 1m';-inkscape-font-specification:'M+ 1p Medium';text-align:center;writing-mode:lr-tb;text-anchor:middle">Debian 開発者</flowPara><flowPara
            id="layer.ja-JP.flowPara32143"
@@ -981,10 +981,10 @@
              y="2097.5627"
              x="578.43494"
              height="33.246647"
-             width="226.07039"
+             width="250"
              id="layer.ja-JP.rect30233" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara30300">バグ発見? パッチを送りましょう!</flowPara></flowRoot>      <flowRoot
+           id="layer.ja-JP.flowPara30300">バグ発見？　パッチを送りましょう！</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="layer.ja-JP.flowRoot29078"
          style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1046,10 +1046,10 @@
              y="2097.5627"
              x="578.43494"
              height="51.006187"
-             width="269.45773"
+             width="285"
              id="layer.ja-JP.rect138344" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';-inkscape-font-specification:'M+ 1p Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="layer.ja-JP.flowPara138346">バグ発見? 報告しましょう! ウェブページや &quot;reportbug&quot; ツールを使いましょう。</flowPara></flowRoot>      <flowRoot
+           id="layer.ja-JP.flowPara138346">バグ発見？　報告しましょう！　ウェブページや &quot;reportbug&quot; ツールを使いましょう。</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="layer.ja-JP.flowRoot28816"
          style="font-style:normal;font-weight:normal;font-size:14px;line-height:125%;font-family:'M+ 1p';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -1259,7 +1259,7 @@
              style="font-weight:bold;font-size:32px"
              y="482.19635"
              x="750"
-             sodipodi:role="line">未来は明るい!</tspan></text>
+             sodipodi:role="line">未来は明るい！</tspan></text>
       </g>
       <flowRoot
          xml:space="preserve"

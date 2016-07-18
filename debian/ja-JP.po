@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Debian's Infographic 3.0\n"
 "Report-Msgid-Bugs-To: Claudio Ferreira Filho <filhocf@gmail.com>\n"
-"POT-Creation-Date: 2016-06-28 09:00+0900\n"
-"PO-Revision-Date: 2016-07-05 09:00+0900\n"
+"POT-Creation-Date: 2016-07-18 09:00+0900\n"
+"PO-Revision-Date: 2016-07-18 09:00+0900\n"
 "Last-Translator: AYANOKOUZI, Ryuunosuke <i38w7i3@yahoo.co.jp>\n"
 "Language-Team: Japanese <https://github.com/l/infographics/tree/master/translation/ja_JP>\n"
 "Language: ja\n"
@@ -249,25 +249,25 @@ msgstr "Debian のさらに内部へ参加 (中級)"
 #: en-US.svg:801
 #, no-wrap
 msgid "Get involved!"
-msgstr "参加しましょう!"
+msgstr "参加しましょう！"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:816
 #, no-wrap
 msgid "Do you like events?"
-msgstr "イベントがお好きですか?"
+msgstr "イベントがお好きですか？"
 
 #. type: Content of: <svg><g><g><g><text><tspan>
 #: en-US.svg:834
 #, no-wrap
 msgid "You inside of Debian (hard? No. Be a part in Debian Project!)"
-msgstr "Debian の中の人になる (上級? そんなことはありません。Debian プロジェクトに参加しましょう!)"
+msgstr "Debian の中の人になる (上級？　そんなことはありません。Debian プロジェクトに参加しましょう！)"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:849 en-US.svg:895
 #, no-wrap
 msgid "Do you like to program?"
-msgstr "プログラミングがお好きですか?"
+msgstr "プログラミングがお好きですか？"
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
 #: en-US.svg:866
@@ -279,25 +279,25 @@ msgstr "開発メーリングリストに登録して、他の開発者と話し
 #: en-US.svg:868
 #, no-wrap
 msgid "WELCOME and ENJOY!"
-msgstr "Debian にようこそ! ご参加を歓迎します!"
+msgstr "Debian にようこそ！　参加を歓迎します！"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:882
 #, no-wrap
 msgid "do you wish to be a team member?"
-msgstr "チームの一員になりたいですか?"
+msgstr "チームの一員になりたいですか？"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:908
 #, no-wrap
 msgid "Do you like to translate?"
-msgstr "翻訳がお好きですか?"
+msgstr "翻訳がお好きですか？"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:921
 #, no-wrap
 msgid "Do you like to write?"
-msgstr "物書きがお好きですか?"
+msgstr "物書きがお好きですか？"
 
 #. type: Content of: <svg><g><g><g><text><tspan>
 #: en-US.svg:940
@@ -315,7 +315,7 @@ msgstr "悟りを開く方法"
 #: en-US.svg:960
 #, no-wrap
 msgid "DD"
-msgstr "DD"
+msgstr " "
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:962
@@ -339,7 +339,7 @@ msgstr "開発者のコーナーにある、新メンテナガイド、Debian �
 #: en-US.svg:990
 #, no-wrap
 msgid "Found a bug?  Send a patch!"
-msgstr "バグ発見? パッチを送りましょう!"
+msgstr "バグ発見？　パッチを送りましょう！"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:1003
@@ -369,7 +369,7 @@ msgstr "Debian プロジェクトに参加したばかりの開発者を指導�
 #: en-US.svg:1055
 #, no-wrap
 msgid "Found a bug? Report it! You can use the webpage or &quot;reportbug&quot; tool."
-msgstr "バグ発見? 報告しましょう! ウェブページや &quot;reportbug&quot; ツールを使いましょう。"
+msgstr "バグ発見？　報告しましょう！　ウェブページや &quot;reportbug&quot; ツールを使いましょう。"
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
 #: en-US.svg:1068
@@ -489,7 +489,7 @@ msgstr "Ian Murdock さんが亡くなりました"
 #: en-US.svg:1265
 #, no-wrap
 msgid "The Future is Open!"
-msgstr "未来は明るい!"
+msgstr "未来は明るい！"
 
 #. type: Content of: <svg><g><g><text><tspan>
 #: en-US.svg:1334
