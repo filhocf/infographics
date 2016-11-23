@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 3.0\n"
-"POT-Creation-Date: 2016-06-19 16:41-0300\n"
+"POT-Creation-Date: 2016-06-28 09:00+0900\n"
 "PO-Revision-Date: 2016-06-19 16:45:GMT-3\n"
 "Last-Translator: Claudio Ferreira Filho <filhocf@gmail.com>\n"
 "Language-Team: English \n"
@@ -17,565 +17,523 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Content of: <svg><metadata><rdf:RDF><cc:Work><dc:format>
-#: en-US.svg:48
+#: en-US.svg:29
 #, no-wrap
 msgid "image/svg+xml"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:84
+#: en-US.svg:91
 #, no-wrap
 msgid "On 1993-08-16, Ian Murdock announced the birth of Debian."
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:101
+#: en-US.svg:108
 #, no-wrap
 msgid "Release Process"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:117
+#: en-US.svg:124
 #, no-wrap
 msgid "Intended for:"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:137
+#: en-US.svg:144
 #, no-wrap
 msgid "Understanding Debian"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:152
+#: en-US.svg:159
 #, no-wrap
 msgid "The universal operating system"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:169
+#: en-US.svg:176
 #, no-wrap
 msgid "Lastest versions always are incorporated in Sid (unstable)."
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:183
+#: en-US.svg:190
 #, no-wrap
 msgid "Sources"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:202 en-US.svg:1286
+#: en-US.svg:209 en-US.svg:1293
 #, no-wrap
 msgid "Unstable"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:222 en-US.svg:658 en-US.svg:677 en-US.svg:1312
+#: en-US.svg:229 en-US.svg:665 en-US.svg:684 en-US.svg:1319
 #, no-wrap
 msgid "Stable"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:252
+#: en-US.svg:259
 #, no-wrap
 msgid "current testing version"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:271 en-US.svg:1273
+#: en-US.svg:278 en-US.svg:1280
 #, no-wrap
 msgid "Experimental"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:292
+#: en-US.svg:299
 #, no-wrap
-msgid ""
-"Unstable: also known as SID, the neighbor who broke toys. Eternally "
-"unstable. This is an area for package stabilization. SID: Still in "
-"Development"
+msgid "Unstable: also known as SID, the neighbor who broke toys. Eternally unstable. This is an area for package stabilization. SID: Still in Development"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:314
+#: en-US.svg:321
 #, no-wrap
 msgid "repositories"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:335
+#: en-US.svg:342
 #, no-wrap
-msgid ""
-"Testing: stabilization area for the distribution as a whole. It is released "
-"as stable version when ready."
+msgid "Testing: stabilization area for the distribution as a whole. It is released as stable version when ready."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:357
+#: en-US.svg:364
 #, no-wrap
-msgid ""
-"Stable: when a new version is released, it gets a codename. The first "
-"codename was  Buzz, from Toy Story movie."
+msgid "Stable: when a new version is released, it gets a codename. The first codename was  Buzz, from Toy Story movie."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:380
+#: en-US.svg:387
 #, no-wrap
-msgid ""
-"When a new version is released as stable, it immediately open space in "
-"testing. Then a new cycle of distribution stabilization is started for a "
-"future release. The process follows a continuous and natural flow."
+msgid "When a new version is released as stable, it immediately open space in testing. Then a new cycle of distribution stabilization is started for a future release. The process follows a continuous and natural flow."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:401
+#: en-US.svg:408
 #, no-wrap
-msgid ""
-"Experimental: area for bleeding edge version and experimentation. It is used "
-"periodically."
+msgid "Experimental: area for bleeding edge version and experimentation. It is used periodically."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:420 en-US.svg:701 en-US.svg:1299
+#: en-US.svg:427 en-US.svg:708 en-US.svg:1306
 #, no-wrap
 msgid "Testing"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:442
+#: en-US.svg:449
 #, no-wrap
-msgid ""
-"In general it is used to incorporate a great set of packages before going "
-"into unstable."
+msgid "In general it is used to incorporate a great set of packages before going into unstable."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:463
+#: en-US.svg:470
 #, no-wrap
 msgid "Pure blend"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:483
+#: en-US.svg:490
 #, no-wrap
 msgid "Derivatives"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:505
+#: en-US.svg:512
 #, no-wrap
 msgid "2003-08-16"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:507
+#: en-US.svg:514
 #, no-wrap
 msgid "10 years of Debian Project"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:530
+#: en-US.svg:537
 #, no-wrap
-msgid ""
-"Debian Women: Seeks to provide balance and to diversify the Debian "
-"community. Actively engaged with stakeholders and encourages women to become "
-"more involved with Debian."
+msgid "Debian Women: Seeks to provide balance and to diversify the Debian community. Actively engaged with stakeholders and encourages women to become more involved with Debian."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:553
+#: en-US.svg:560
 #, no-wrap
 msgid "2011-08-16"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:555
+#: en-US.svg:562
 #, no-wrap
 msgid "18 years. "
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:557
+#: en-US.svg:564
 #, no-wrap
 msgid "Age of majority."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:578
+#: en-US.svg:585
 #, no-wrap
 msgid "Debian Mentors: Focused on helping new developers."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:600
+#: en-US.svg:607
 #, no-wrap
-msgid ""
-"Under the DFSG, all changes made ​​in Debian are made available to upstream "
-"authors, benefiting Debian itself and  other distributions."
+msgid "Under the DFSG, all changes made ​​in Debian are made available to upstream authors, benefiting Debian itself and  other distributions."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:616
+#: en-US.svg:623
 #, no-wrap
 msgid "On 1997-07-05, the Debian Free Software Guideline was created."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:629
+#: en-US.svg:636
 #, no-wrap
-msgid ""
-"Pure Blend: Debian Pure Blends provide a solution for special groups of "
-"target users  with different skills and interests."
+msgid "Pure Blend: Debian Pure Blends provide a solution for special groups of target users  with different skills and interests."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:643
+#: en-US.svg:650
 #, no-wrap
-msgid ""
-"Derivatives: Debian provides a solid foundation to build a new custom "
-"distribution."
+msgid "Derivatives: Debian provides a solid foundation to build a new custom distribution."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:656 en-US.svg:675 en-US.svg:699
+#: en-US.svg:663 en-US.svg:682 en-US.svg:706
 #, no-wrap
 msgid "Security team"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:722
+#: en-US.svg:729
 #, no-wrap
-msgid ""
-"Debian Live: provides a framework to build official or customized Debian "
-"Live images to boot into Debian without requiring installation."
+msgid "Debian Live: provides a framework to build official or customized Debian Live images to boot into Debian without requiring installation."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:736
+#: en-US.svg:743
 #, no-wrap
 msgid "Quality Assurance team"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:754
+#: en-US.svg:761
 #, no-wrap
 msgid "Firsts steps (easy)"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:774
+#: en-US.svg:781
 #, no-wrap
 msgid "Participating more inside of Debian (medium)"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:794
+#: en-US.svg:801
 #, no-wrap
 msgid "Get involved!"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:809
+#: en-US.svg:816
 #, no-wrap
 msgid "Do you like events?"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:827
+#: en-US.svg:834
 #, no-wrap
 msgid "You inside of Debian (hard? No. Be a part in Debian Project!)"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:842 en-US.svg:888
+#: en-US.svg:849 en-US.svg:895
 #, no-wrap
 msgid "Do you like to program?"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:859
+#: en-US.svg:866
 #, no-wrap
-msgid ""
-"Subscribe in the devel lists, talk with other developers and join a team "
-"with similar interests in Debian Project. "
+msgid "Subscribe in the devel lists, talk with other developers and join a team with similar interests in Debian Project. "
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:861
+#: en-US.svg:868
 #, no-wrap
 msgid "WELCOME and ENJOY!"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:875
+#: en-US.svg:882
 #, no-wrap
 msgid "do you wish to be a team member?"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:901
+#: en-US.svg:908
 #, no-wrap
 msgid "Do you like to translate?"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:914
+#: en-US.svg:921
 #, no-wrap
 msgid "Do you like to write?"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:933
+#: en-US.svg:940
 #, no-wrap
 msgid "The Debian Way"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:938
+#: en-US.svg:945
 #, no-wrap
 msgid "for Illumination"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:953
+#: en-US.svg:960
 #, no-wrap
 msgid "DD"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:955
+#: en-US.svg:962
 #, no-wrap
 msgid "Debian Developer"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:957
+#: en-US.svg:964
 #, no-wrap
 msgid "The illumination"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:970
+#: en-US.svg:977
 #, no-wrap
-msgid ""
-"Read the technical documentation in the Developers' Corner, like New "
-"Maintainers' Guide, Debian Policy Manual or Debian Developer's Reference."
+msgid "Read the technical documentation in the Developers' Corner, like New Maintainers' Guide, Debian Policy Manual or Debian Developer's Reference."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:983
+#: en-US.svg:990
 #, no-wrap
 msgid "Found a bug?  Send a patch!"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:996
+#: en-US.svg:1003
 #, no-wrap
 msgid "Translate Debian web pages, manuals or package descriptions."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1009
+#: en-US.svg:1016
 #, no-wrap
 msgid "Write a manual, book or other materials that can help new users."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1022
+#: en-US.svg:1029
 #, no-wrap
-msgid ""
-"Adopt an orphaned package or start a packaging with a new software, alone or "
-"by joing in a team."
+msgid "Adopt an orphaned package or start a packaging with a new software, alone or by joing in a team."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1035
+#: en-US.svg:1042
 #, no-wrap
-msgid ""
-"Help new developers coming in Debian Project as a mentor. Learn from people "
-"experienced in packaging practices and learn to understand the Debian way."
+msgid "Help new developers coming in Debian Project as a mentor. Learn from people experienced in packaging practices and learn to understand the Debian way."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1048
+#: en-US.svg:1055
 #, no-wrap
-msgid ""
-"Found a bug? Report it! You can use the webpage or &quot;reportbug&quot; "
-"tool."
+msgid "Found a bug? Report it! You can use the webpage or &quot;reportbug&quot; tool."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1061
+#: en-US.svg:1068
 #, no-wrap
 msgid "Participate in Debian Popularity Contest"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1063
+#: en-US.svg:1070
 #, no-wrap
-msgid ""
-"Say &quot;yes&quot; at install time. It will help to choose packages for the "
-"first CD/DVD and to assess user-base for any package"
+msgid "Say &quot;yes&quot; at install time. It will help to choose packages for the first CD/DVD and to assess user-base for any package"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1076
+#: en-US.svg:1083
 #, no-wrap
 msgid "Install, try and use in your computer."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1089
+#: en-US.svg:1096
 #, no-wrap
-msgid ""
-"Promote meetings, parties on special Debian days, or presentations about "
-"Debian at IT events in your city or country."
+msgid "Promote meetings, parties on special Debian days, or presentations about Debian at IT events in your city or country."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1091
+#: en-US.svg:1098
 #, no-wrap
 msgid "Join to Debian Day."
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:1113
+#: en-US.svg:1120
 #, no-wrap
 msgid "The Debian Administrator's Handbook"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1127
+#: en-US.svg:1134
 #, no-wrap
 msgid "Debian Bug Track System"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1140
+#: en-US.svg:1147
 #, no-wrap
 msgid "Adventurous users and developers"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1153
+#: en-US.svg:1160
 #, no-wrap
 msgid "General users"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1166
+#: en-US.svg:1173
 #, no-wrap
 msgid "Conservative users and servers"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1178
+#: en-US.svg:1185
 #, no-wrap
 msgid "Claudio F Filho (filhocf) &lt;filhocf@gmail.com&gt;"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1180
+#: en-US.svg:1187
 #, no-wrap
 msgid "12/06/2016 - version 3.0 - Made with Inkscape."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1182
+#: en-US.svg:1189
 #, no-wrap
-msgid "Understanding Debian is licensed under CC By-SA 4.0  "
+msgid "Understanding Debian is licensed under CC By-SA 4.0 "
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1184
+#: en-US.svg:1191
 #, no-wrap
 msgid "All versions are available at http://cfnarede.com.br/infografico-do-debian"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1186
+#: en-US.svg:1193
 #, no-wrap
-msgid ""
-"Debian is a trademark of Software Public Interest Inc. All trademarks are "
-"exclusive property of their respective owners. All characters in the movie "
-"in the Toy Story movie are the property of Pixar/Disney. "
+msgid "Debian is a trademark of Software Public Interest Inc. All trademarks are exclusive property of their respective owners. All characters in the movie in the Toy Story movie are the property of Pixar/Disney. "
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1188
+#: en-US.svg:1195
 #, no-wrap
 msgid "Many cliparts used here are from OpenCliparts.org project."
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1217
+#: en-US.svg:1224
 #, no-wrap
 msgid "New logo 1999-05"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:1237
+#: en-US.svg:1244
 #, no-wrap
 msgid "2015-12-28"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><flowRoot><flowPara>
-#: en-US.svg:1239
+#: en-US.svg:1246
 #, no-wrap
 msgid "Ian Murdock passed away"
 msgstr ""
 
 #. type: Content of: <svg><g><g><g><text><tspan>
-#: en-US.svg:1258
+#: en-US.svg:1265
 #, no-wrap
 msgid "The Future is Open!"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1327
+#: en-US.svg:1334
 #, no-wrap
 msgid "Developers"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1343
+#: en-US.svg:1350
 #, no-wrap
 msgid "Packages"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1354
+#: en-US.svg:1361
 #, no-wrap
 msgid "Courtesy"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1365
+#: en-US.svg:1372
 #, no-wrap
 msgid "Registered Debian users"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1380
+#: en-US.svg:1387
 #, no-wrap
 msgid "Distribution Popularity"
 msgstr ""
 
 #. type: Content of: <svg><g><g><flowRoot><flowPara>
-#: en-US.svg:1398
+#: en-US.svg:1405
 #, no-wrap
 msgid "Distribution of Debian developers around the world"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1414
+#: en-US.svg:1421
 #, no-wrap
 msgid "Software versions"
 msgstr ""
 
 #. type: Content of: <svg><g><g><text><tspan>
-#: en-US.svg:1419
+#: en-US.svg:1426
 #, no-wrap
 msgid "(2016-06-12)"
 msgstr ""

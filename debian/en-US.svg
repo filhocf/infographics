@@ -9,15 +9,30 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1046.7509mm"
-   height="695.37158mm"
-   viewBox="0 0 3708.9597 2463.915"
-   id="svg23352"
+   width="1045.3397mm"
+   height="693.96045mm"
+   viewBox="0 0 3703.9596 2458.9149"
+   id="svg19450"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="en_US.svg">
+   sodipodi:docname="en-US.svg"
+   inkscape:export-filename="/home/filhocf/Dropbox/public/infographic_debian-v30.png"
+   inkscape:export-xdpi="150.01735"
+   inkscape:export-ydpi="150.01735">
   <defs
-     id="defs23354" />
+     id="defs350" />
+  <metadata
+     id="metadata19455">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,11 +40,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="737.30814"
-     inkscape:cy="897.00912"
+     inkscape:zoom="2.6134236"
+     inkscape:cx="1631.4098"
+     inkscape:cy="2234.8527"
      inkscape:document-units="px"
-     inkscape:current-layer="g22657"
+     inkscape:current-layer="svg19450"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -39,27 +54,19 @@
      inkscape:window-height="1337"
      inkscape:window-x="0"
      inkscape:window-y="66"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata23357">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <g
-     inkscape:label="Camada 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(1145.9084,1922.4524)">
+     id="layer13"
+     inkscape:label="en"
+     style="display:inline"
+     transform="translate(-2.6486625,-5.6871871)">
     <g
-       transform="translate(-1146.0571,-1925.6395)"
-       style="display:inline"
+       transform="matrix(1.0969358,0,0,1.0969358,1796.1393,1271.1632)"
+       id="g4281" />
+    <g
        id="g22657">
       <g
          id="g26907"
@@ -1176,10 +1183,10 @@
              id="rect19716" /></flowRegion><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
            id="flowPara19718">Claudio F Filho (filhocf) &lt;filhocf@gmail.com&gt;</flowPara><flowPara
-           id="flowPara19740"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">12/06/2016 - version 3.0 - Made with Inkscape.</flowPara><flowPara
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
-           id="flowPara24071">Understanding Debian is licensed under CC By-SA 4.0  </flowPara><flowPara
+           id="flowPara19720">12/06/2016 - version 3.0 - Made with Inkscape.</flowPara><flowPara
+           id="flowPara19740"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">Understanding Debian is licensed under CC By-SA 4.0 </flowPara><flowPara
            id="flowPara19415"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start">All versions are available at http://cfnarede.com.br/infografico-do-debian</flowPara><flowPara
            id="flowPara19419"
