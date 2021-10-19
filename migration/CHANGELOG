@@ -2,39 +2,47 @@
   - Added ROI chart for CMS;
   - Added games apps - Battle of Wesnoth, ScummVM and 0A.D.;
   - Added p2p share apps - BitTorrent - thanks to Paulo Souza;
-  - Resized some texts;
-  - Changed from A2 to A1 (growing the number of informations);
-  - Refactored the "Migration Planning" area, adding a timeline for migrations;
   - Added QR barcode with contacts and GPG key;
   - Added URL for home of infographic;
   - Added thief icon;
+  - Changed from A2 to A1 (growing the number of informations);
+  - Refactored the "Migration Planning" area, adding a timeline for 
+    migrations;
+  - Resized some texts;
 
 * Version 0.4 (2012-06-02)
-  - Colors reformulation - thanks to Ursula Schumm by her good technical critiques;
   - Added lot of apps in desktop and cloud area;
-  - Added internet TV picture in the cloud apps area - thanks to Marco Scheiner;
-  - Reformulated all apps types icons;
-  - Reformulated migration planning area, integrating with apps type icons;
+  - Added internet TV picture in the cloud apps area - thanks to Marco
+    Scheiner;
+  - Colors reformulation - thanks to Ursula Schumm by her good 
+    technical critiques;
   - Correction of typos in pt-BR - thanks to Flávio Raphael Barcellos;
+  - Reformulated all apps types icons;
+  - Reformulated migration planning area, integrating with apps type 
+    icons;
 
 * Version 0.3 (2012-05-20)
   - Added Migration Effort and TCO sectors;
-  - Rethink the Apps for migration sector;
   - Fix some typographic errors - thanks Luiz Oliveira;
   - Resized to more that A2;
+  - Rethink the Apps for migration sector;
 
 * Version 0.2 (2012-05-13)
-  - Added vision flow in the infographic (numbers in titles)- thanks to Leonardo
-    Cezar by suggestion;
-  - Changed the presentation of frame "Migration planning" (middle area) with 
-    addition of metaphor of airplane for migration - thanks to Marco Scheiner 
-    by suggestion;
+  - Added vision flow in the infographic (numbers in titles)- thanks 
+    to Leonardo Cezar by suggestion;
+  - Changed the presentation of frame "Migration planning" (middle 
+    area) with addition of metaphor of airplane for migration - thanks
+    to Marco Scheiner by suggestion;
   - Resized from A3 to A2 (many information).
 
 * Version 0.1 (2012-05-06)
-  - Added frame "What to Migrate", with a view from corporate and general users;
-  - Added frame "Migrate in layers", doing a analogy between IT migration and a cake;
-  - Added frame "Thinking in Cloud", presenting some open source solutions for cloud;
-  - Added frame "Thinking in Apps", presenting some open source apps for desktop;
+  - Added frame "What to Migrate", with a view from corporate and 
+    general users;
+  - Added frame "Migrate in layers", doing a analogy between IT 
+    migration and a cake;
+  - Added frame "Thinking in Cloud", presenting some open source 
+    solutions for cloud;
+  - Added frame "Thinking in Apps", presenting some open source apps 
+    for desktop;
   - Special thanks for Marco Scheiner by revising the graphic;
   - Version only in Brazilian Portuguese.
